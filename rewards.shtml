@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head> 
+  <title>www.UlyssesUlysses.com</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <link href="css/regular.css" rel="stylesheet" type="text/css" />
+  <link rel="Shortcut Icon" href="http://www.ulyssesulysses.com/images/favicon.ico" />
+</head> 
+<body> 
+
+<!--#include virtual="includes/topper.shtml" -->
+
+<div id="container">
+
+<div id="bodycontent">
+<p><h1>The Rewards of Reading <em>Ulysses</em></h1></p>
+<p>
+Given all the challenges, why should anyone try reading Ulysses? Ulysses is a popular 
+and respected work for good reason. The novel follows the thoughts of characters 
+both humorous and quietly heroic, tinging the commonplace with references to 
+life on a grander, Odysseyan scale. The book's subtleties can delight as well as of 
+frustrate, keeping the reader alert with puzzles and rewarding him for noticing 
+allusions and making connections. If these mental rewards are not enough to 
+recommend attempting the book, the novel's frequent ranking near the top of 
+lists of the best literature of all time may recommend it to readers 
+(see <a href="http://www.randomhouse.com/modernlibrary/100bestnovels.html" target="_blank">Modern Library's
+List of the 100 Best Novels</a>, which <em>Ulysses</em> tops).
+</p>
+</div>
+
+<!--#include virtual="includes/footer.shtml" -->
+</div>
+	
+</body> 
+</html>

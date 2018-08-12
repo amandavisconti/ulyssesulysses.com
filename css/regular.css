@@ -1,0 +1,351 @@
+/*
+CSS for _Ulysses_ Site: Non-episode pages
+Amanda Visconti
+*/
+
+body {
+	font-family: Arial, sans-serif;
+	background-color:#403524;
+	margin: 0 auto;
+	width: 1006px;
+}
+
+#container {
+	background-color: #FFD48E;
+	min-height: 600px;
+	height: expression( this.scrollHeight < 601 ? "600px" : "auto" ); /* sets min-height for IE */
+	min-height: 600px; /* sets min-height value for all standards-compliant browsers */
+}
+
+/* -------------------------------------- */
+/* Top-of-Page Logo Banner */
+
+#topper {
+	background-color:#403524;
+	height: 80px;
+	font-variant: small-caps;
+	font-size: 14px;
+	margin-top: 10px;
+	border: 3px solid #FFD48E;
+}
+
+.Joyce1 {
+	float: left;
+}
+
+.logo {	
+	float:center;
+}
+
+.Joyce2 {
+	float: left;
+	margin-top: -48px;
+}
+
+.highlight {
+	font-weight: bold;
+	font-variant: small-caps;
+	font-size: 18px;
+	color: #990022;
+}
+
+/* For images on briefing sections */
+#bodycontent .left {
+	float: left;
+	padding-right: 20px;
+}
+
+#bodycontent .right {
+	float: right;
+	padding-left: 20px;
+}
+
+#bodycontent .goright {
+	margin-left: 590px;
+	padding-bottom: 20px;
+	font-size: 18px;
+	font-variant: small-caps;
+	text-decoration: underline;
+}
+
+
+
+/* -------------------------------------- */
+/* DIVs*/
+
+
+.jump li{
+	list-style: none;
+	display: inline;
+	padding: 10px;
+}
+
+#chapter {
+	background-color: #403524;
+	width: 1006px;	
+	text-align: center;
+}
+
+#prede {
+	height: 29px;
+	background-color: #403524;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	margin-bottom: 10px;
+	width: 1006px;
+}
+
+/* Episode 1 PreBriefing Button */
+#pre {
+	margin-top: -10px;
+}
+
+#pre:hover {
+	margin-top: -10px;
+}
+
+/* Episode 1 DeBriefing Button */
+#post {
+	margin-left: 735px;
+	margin-top: -41px;
+}
+
+#post:hover {
+	margin-left: 735px;
+	margin-top: -41px;
+}
+
+
+#bodycontent {
+	width: 800px;
+	padding: 5px;
+	margin-left: 100px;
+	font-size: 13px;
+	line-height: 25px;
+}
+
+/* For index page text, left */
+#indexcontent1 {
+	width: 459.5px;
+	height: 225px;
+	font-size: 15px;
+	padding: 20px;
+}
+
+/* For index page text, right */
+#indexcontent2 {
+	margin-top: -265px;
+	margin-left: 500px;
+	width: 460.5px;
+	height: 225px;
+	font-size: 15px;
+	padding: 20px;
+}
+
+/* For index page example image */
+#divider {
+	border-top: 2px solid #403524;
+	width: 1050px;
+	height: 440px;
+	margin-left: -20px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+
+/* -------------------------------------- */
+/* Button Links */
+
+a:link {
+	text-decoration: none;
+	color: #990022;
+}
+
+a:visited {
+	color: #990022;
+}
+
+a:hover {
+	color: #990022;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #990022;
+}
+
+/* -------------------------------------- */
+/* Main Menu */
+#menuh-container {
+	margin-top: -8px;
+	margin-left: 80px;
+}
+
+#menuh
+	{
+	font-size: small;
+	font-family: arial, sans-serif;
+	letter-spacing: 1px;
+	}
+		
+#menuh a
+	{
+	text-align: center;
+	font-size: 16px;
+	display:block;
+	border: 2px solid #990022;
+	font-weight: bold;
+	white-space:nowrap;
+	margin:0;
+	padding: 0.3em;
+	letter-spacing: 3px;
+	}
+	
+	
+#menuh li .grey a {
+	color: #555555;
+	background-color: #403524;
+	text-decoration:none;
+}
+	
+#menuh a:link, #menuh a:visited, #menuh a:active	/* menu at rest */
+	{
+	color: #FFF1DA;
+	background-color: #403524;
+	text-decoration:none;
+	}
+	
+#menuh a:hover						/* menu on mouse-over  */
+	{
+	color: #990022;
+	background-color: #FFD48E;
+	text-decoration:none;
+	}
+
+#menuh ul
+	{
+	list-style:none;
+	margin:0;
+	padding:0;
+	float:left;
+	width: 210px; /* width of all menu boxes */
+	/* NOTE: For adjustable menu boxes you can comment out the above width rule.
+	However, you will have to add padding in the "#menh a" rule so that the menu boxes
+	will have space on either side of the text */
+	}
+
+#menuh li
+	{
+	position:relative;
+	min-height: 1px;		
+	vertical-align: bottom;	
+	}
+
+#menuh ul ul
+	{
+	position:absolute;
+	z-index:500;
+	top:auto;
+	display:none;
+	padding: 1em;
+	margin:-1em 0 0 -1em;
+	}
+
+#menuh ul ul ul
+	{
+	top:0;
+	left:100%;
+	}
+
+div#menuh li:hover
+	{
+	cursor:pointer;
+	z-index:100;
+	}
+
+div#menuh li:hover ul ul,
+div#menuh li li:hover ul ul,
+div#menuh li li li:hover ul ul,
+div#menuh li li li li:hover ul ul
+{display:none;}
+
+div#menuh li:hover ul,
+div#menuh li li:hover ul,
+div#menuh li li li:hover ul,
+div#menuh li li li li:hover ul
+{display:block;}
+
+
+
+
+
+
+/* -------------------------------------- */
+/* Footer Menu Bar*/
+#footer {
+margin-top: 20px;
+background-color: #FFD48E;
+position: relative;
+top: 100%;
+}
+
+
+#footernav {
+border-bottom:3px solid #403524;
+border-top:3px solid #403524;
+text-align:center;
+}
+
+#footernav ul {
+display:inline;
+}
+
+#footernav li {
+display:inline;
+padding:50px;
+}
+
+#footernav a:link {
+color:#990022;
+font-variant:small-caps;
+font-weight:bold;
+text-decoration:none;
+}
+
+#footernav a:hover {
+color:#990022;
+font-variant:small-caps;
+font-weight:bold;
+text-decoration:underline;
+}
+
+#footernav a:visited {
+color:#990022;
+font-variant:small-caps;
+font-weight:bold;
+text-decoration:none;
+}
+
+#footernav a:active {
+color:#990022;
+font-variant:small-caps;
+font-weight:bold;
+text-decoration:none;
+}
+
+
+#footerupdate {
+color:#403524;
+padding-top: 5px;
+font-size: 12px;
+font-variant: small-caps;
+text-align: center;
+}
+
+#footerupdate ul {
+display:inline;
+}
+
+#footerupdate li {
+display:inline;
+padding: 15px;
+}

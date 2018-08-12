@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head> 
+  <title>www.UlyssesUlysses.com</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <link href="css/regular.css" rel="stylesheet" type="text/css" />
+  <link rel="Shortcut Icon" href="http://www.ulyssesulysses.com/images/favicon.ico" />
+</head> 
+<body> 
+
+<!--#include virtual="includes/topper.shtml" -->
+
+<div id="container">
+
+<div id="bodycontent">
+<p>
+<h1>Site Licenses</h1>
+</p>
+<p>
+This site (apart from the text of <em>Ulysses</em>, which is public domain and can
+be found on Project Gutenberg, and any images or annotations marked as the work of another party) is licensed under the following Creative Commons license and may not
+be used for commercial purposes nor modified:<br>
+<div class="license">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dc:title" rel="dc:type">UlyssesUlysses.com</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.ulyssesulysses.com" property="cc:attributionName" rel="cc:attributionURL">Amanda Visconti</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License</a>.
+</div>
+</p>
+
+<hr>
+<p>
+<h1>Resources Used to Create the Text Annotations</h1>
+</p>
+<p>
+The annotations to the text shown here are derived from a variety of sources. As
+I am currently in my fifth reading of <em>Ulysses</em> after first reading it 
+nearly six years ago, correct attribution of the source for every interpretation
+I have heard along the way is, unfortunately, impossible; however, every effort
+has been made to attribute sources when this is possible.
+</p>
+<p>
+When annotations were drawn straight from my own knowledge of the book, no
+citation is given. Much of my early understanding of Joyce's text was shaped by
+Harry Blamires's <em>The New Bloomsday Book</em>, which accompanied my first 
+reading of the novel and I have cited here whenever (a) I returned to it
+for assistance or (b) I recall a specific interpretation coming from that book.
+</p>
+<p>
+Richard Ellmann's biography <em>James Joyce</em> was also invaluable to my understanding
+of where Joyce was coming from with all this paranoia about "usurpers"
+and "tempters"; indeed, Joyce's need to distance himself from the artistic
+constraints of ireland led him to spend most of his life away from his homeland.
+It also allows one to trace interesting parallels between Joyce's and Stephen's lives
+(e.g. the incident where Stephen feels he has been kicked out of the tower, and
+Mulligan, who was based on Joyce's erstwhile friend Oliver Gogarty).
+</p>
+<p>
+Other resources are cited at the end of the annotations to which they apply;
+these refer to full references given at the bottom of each episodes's
+Briefing page (the pages which precede each episode, giving an overview of 
+what is in store). I also list here all resources used to create annotations for 
+the text:
+</p>
+<p>
+<ul>
+
+
+
+<li>Blamires, Harry (3rd ed). The New Bloomsday Book: A Guide through Ulysses. Routledge, 1996.</li>
+<li>Dictionary.com, accessed March 13, 2009.</li>
+<li>Gifford, Don & Seidman, Robert J. (2nd ed.). Ulysses Annotated: notes for James Joyce's Ulysses. 
+University of California Press, 1989.</li>
+<li>http://en.wikipedia.org/wiki/Croppy, accessed March 13, 2009.</li>
+<li>Moxham, Bernard. <em>Ineluctable Modality: Images to Accompany James Joyce's </em> Ulysses<em>Website</em>. Http://www.ulysses-art.demon.co.uk. Accessed 25 February 2009.</li>
+<li>Thornton, Weldon. <em>Allusions in</em> Ulysses<em>: An Annotated List</em>. UNC Press, 1968. Page 20.</li>
+
+
+</ul>
+</p>
+
+<hr>
+<p>
+<h1>Resources Used to Find the Site's Images</h1>
+</p>
+<p>
+Wherever possible, images from the public domain were used. All images not clearly from the public domain
+(and most that are as well)
+contain a link to their host page in the "alt" value of their image tag (use View -> Page Source on your browser to see these).
+However, many of these images are historical and thus not the property of the sites on which they appear,
+so in many cases links are intended more as a courtesy than as an attribution to a creator.
+</p>
+</div>
+
+<!--#include virtual="includes/footer.shtml" -->
+
+</div>
+	
+</body> 
+</html>

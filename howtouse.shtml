@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head> 
+  <title>www.UlyssesUlysses.com</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <link href="css/regular.css" rel="stylesheet" type="text/css" />
+  <link rel="Shortcut Icon" href="http://www.ulyssesulysses.com/images/favicon.ico" />
+</head> 
+<body> 
+
+
+<!--#include virtual="includes/topper.shtml" -->
+
+<div id="container">
+<div id="bodycontent">
+
+<p>
+<h1>General Navigation</h1><br>
+<span class="right"><img src="images/mainnav.jpg" alt="Screenshot of main menu site navigation" width="310" height="141"></span>
+To begin, choose an episode from the drop-down menu at the top of the page
+(I'd recommend you start with the first chapter!). This will not lead directly to
+the episode's text; each episode is preceded by a "briefing" page, which
+contains materials such as a synopsis and character descriptions to prep you
+for reading the episode.
+</p>
+<br>
+<p>
+When you are done reading the briefing page, use the "Episode X" button right
+below the site banner and above the text to move to the episode. After you've read the episode,
+use the "debriefing" link near the top of the page to move to a page that sums up the episode you've just read. When
+<span class="right"><img src="images/navigate.jpg" alt="Screenshot of site navigation" width="600" height="47"></span>
+you're ready for a new episode, use the site's main at the very top of the page to pick your chapter.</p>
+<p>
+
+</p>
+<span class="left"><img src="images/partials.jpg" alt="Screenshot of toggles example" width="126" height="542"></span>
+<p>
+<h1>Reading the Text: Episode Page Navigation</h1>
+<span class="highlight">Toggle the Annotation Links</span><br>
+The episode
+is set up so that you can scroll through the text of the episode while
+notes on the text scroll right alongside. The default setting is for these
+notes to include all the notes for the episode, but by using the tabs at the
+left of the page, you can limit these notes to one of the areas I identified where you are likelyto have trouble with <em>Ulysses</em>: 
+<ul>
+<li>Biographical: these notes highlight parts of the text that have biographical parallels with Joyce's life</li>
+<li>Historical: These notes contain information that will help you understand slang, historical news, and culture that was
+common knowledge during the time <em>Ulysses</em> was set, but may not make sense now.</li>
+<li>Vocabulary: Definitions for difficult vocabulary, including Greek, Latin, and French.</li>
+<li>Styles: A brief explanation on the style in which the episode is written, according to Joyce's biographer Stuart Gilbert in his scheme of <em>Ulysses</em> (http://www.ulysses-art.demon.co.uk/scheme.html). Each episode is written
+in a different style, and as some of them are quite a departure from normal narrative style (e.g. "Aeolus"'s journalistic style) it is important to note the style and consider why Joyce chose to write a given chapter in that way.</li>
+<li>Puzzles: There are several puzzles throughout the text, such as the identity of "the man in the Mackintosh"; these
+notes help you follow the clues.</li>
+</ul>
+</p>
+
+<p>
+<span class="right"><img src="images/telemachus/clock1.jpg" alt="Screenshot of clock example" width="80" height="79"></span>
+<span class="highlight">Episode Time</span><br>
+Below these tabs is a clock-face. 
+The events of <em>Ulysses</em> take place over the course of a single day, from around 8AM through around 3AM the following morning. The clock face
+points to the rough time at which the episode you are reading begins.
+</p>
+
+<p>
+<span class="highlight">Comments, Questions, and Help</span><br>
+<span class="right"><img src="images/help.jpg" alt="Screenshot of help button example" width="102" height="111"></span>
+If you have any comments or questions about the episode you're reading, feel free
+to send these to me using the "Questions or Comments" button on the right side 
+of the page. Also on the right side of the page is a large fuschia "HELP" button,
+which you may click on if you're having trouble understanding the site's layout
+and wish to read this page again.
+</p>
+</div>
+
+<!--#include virtual="includes/footer.shtml" -->
+
+</div>
+	
+</body> 
+</html>

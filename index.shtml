@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>www.UlyssesUlysses.com</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link href="css/regular.css" rel="stylesheet" type="text/css" />
+
+
+<link rel="Shortcut Icon" href="http://www.ulyssesulysses.com/images/favicon.ico" />
+</head>
+<body>
+
+
+
+<!--#include virtual="includes/topper.shtml" -->
+
+<div id="container">
+
+<div id="indexcontent1">
+<p>
+<div class="mainlinks">
+Welcome to <a href="http://www.ulyssesulysses.com">UlyssesUlysses.com</a>, where
+you can read the first two episodes of James Joyce's novel <em>Ulysses</em> online while receiving help with the more
+difficult aspects of the book. This site offers <em>Ulysses</em>-related audio and images, briefing and debriefing pages
+to help you through each episode, and hypertext annotations on the text itself.
+</div>
+</p>
+<p>
+<div class="mainlinks">
+<ul>
+<li><a href="http://www.ulyssesulysses.com/howtouse.shtml">How do I use this site?</a></li>
+<li><a href="http://www.ulyssesulysses.com/challenges.shtml">Why would I need help reading?</a></li>
+<li><a href="http://www.ulyssesulysses.com/rewards.shtml">Why should I read <em>Ulysses</em>?</a></li>
+</ul>
+</div>
+</p>
+<p>
+This site is a <strong>prototype</strong> digital text not optimized for all browsers (the latest version of Firefox is recommended).
+</p>
+</div>
+
+<div id="indexcontent2">
+<p><span class="highlight">The News:</span></p>
+<ul>
+<li>11/24/2012: <strong>This site was created in 2008 and is no longer updated.</strong> It's now a very dated representation of my technical skills; I'm currently developing a new, full-text edition of Ulysses with a lot of cool features over at <a href="http://www.infiniteulysses.com">InfiniteUlysses.com</a>. Read about the development of the new site at <a href="http://www.literaturegeek.com">LiteratureGeek.com!</a>.</li>
+<li>A slightly more recent (2010/1) digital literary engagement I created is <a href="http://www.digitaldospassos.com">Digital Dos Passos</a>.</li>
+</ul>
+</div>
+
+<div id="divider">
+<img src="images/example.jpg" alt="Screenshot of one of the reading pages"
+height="434" width="1000">
+</div>
+
+<!--#include virtual="includes/footer.shtml" -->
+
+</div>
+
+
+</body>
+</html>

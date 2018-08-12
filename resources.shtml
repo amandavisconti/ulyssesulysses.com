@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head> 
+  <title>www.UlyssesUlysses.com</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <link href="css/regular.css" rel="stylesheet" type="text/css" />
+  <link rel="Shortcut Icon" href="http://www.ulyssesulysses.com/images/favicon.ico" />
+</head> 
+<body> 
+
+<!--#include virtual="includes/topper.shtml" -->
+<div id="container">
+<div id="bodycontent">
+<p>
+Navigation to multimedia resources will be linked here as they become available:
+<ul>
+<li>Audio</li>
+<li><a href="http://www.ulyssesulysses.com/images.shtml">Images</a></li>
+<li>Visualizations</li>
+<li>Character List</li>
+<li>Joyce Biography</li>
+<li>History of Ulysses</li>
+</ul>
+</p>
+</div>
+
+<!--#include virtual="includes/footer.shtml" -->
+</div>
+	
+</body> 
+</html>

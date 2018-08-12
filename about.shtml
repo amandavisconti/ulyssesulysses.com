@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head> 
+  <title>www.UlyssesUlysses.com</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <link href="css/regular.css" rel="stylesheet" type="text/css" />
+  <link rel="Shortcut Icon" href="http://www.ulyssesulysses.com/images/favicon.ico" />
+</head> 
+<body> 
+
+<!--#include virtual="includes/topper.shtml" -->
+
+<div id="container">
+
+
+<div id="bodycontent">
+<p><h1>About This Site</h1></p>
+<p>
+UlyssesUlysses.com is an attempt to provide something more than just an etext 
+James Joyce's <em>Ulysses</em>. Because of the difficulty of reading the novel
+(especially the later epsiodes) without assistance for the first time, this site
+offers the novel's text side-by-side with notes explaining such problematic areas
+as: <br>
+<ul>
+<li>biographical parallels with Joyce's life</li>
+<li>historical information</li>
+<li>vocabulary</li>
+<li>the episode's writing style</li>
+<li>puzzles in the text.</li>
+</ul>
+</p>
+<p>
+Each episode is situated between briefing and debriefing pages written to help
+you get the most out of each episode. Briefing pages for an episode contain
+information that it is helpful to know beforehand (a synopsis, character
+descriptions, etc.), as well as pointers toward what to watch for in your reading.
+The debriefing page emphasizes what you should have gotten out of the previous
+episode or presents questions meant to challenge you comprehension of the text.
+</p>
+<p>
+The site will eventually be rich with multimedia resources, such as maps, photography,
+and audio of the text, as well as visualizations of such things as the character's
+paths throughout Dublin on the single day presnted in the novel. Hopefully,
+these resources will make your first reading of <em>Ulysses</em> a richer experience.
+</p>
+</div>
+
+<!--#include virtual="includes/footer.shtml" -->
+
+</div>
+	
+</body> 
+</html>

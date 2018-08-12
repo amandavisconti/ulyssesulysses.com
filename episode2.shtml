@@ -1,0 +1,590 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html xmlns="http://www.w3.org/1999/xhtml"
+xml:lang="en" lang="en"> <head> <title>www.UlyssesUlysses.com</title> <meta
+http-equiv="Content-Type" content="text/html; charset=utf-8" /> <link rel="stylesheet"
+type="text/css" href="css/default.css" title="default" /> <link rel="alternate stylesheet"
+type="text/css" href="css/none.css"  title="none" /> <link rel="alternate stylesheet"
+type="text/css" href="css/bio.css" title="bio" /> <link rel="alternate stylesheet" type="text/css"
+href="css/puzzles.css" title="puzzles" /> <link rel="alternate stylesheet" type="text/css"
+href="css/style.css" title="style" /> <link rel="alternate stylesheet" type="text/css"
+href="css/historical.css" title="historical" /> <link rel="alternate stylesheet" type="text/css"
+href="css/vocab.css" title="vocab" />
+
+<script type="text/javascript" src="script/styleswitcher.js"></script>
+
+<link rel="Shortcut Icon" href="http://www.ulyssesulysses.com/images/favicon.ico" />
+
+</head> <body>
+
+<!--#include virtual="includes/topper.shtml" -->
+
+<div id="underline1"> </div>
+
+<div id="chapter"> <a href="episode2.shtml"> <img src="images/episode2.jpg" width="699" height="33"
+border=0 alt="Link to episode2.shtml" style="opacity:1.0;filter:alpha(opacity=100)"
+onmouseover="this.style.opacity=0.4;this.filters.alpha.opacity=40"
+onmouseout="this.style.opacity=1.0;this.filters.alpha.opacity=100"></a> </div>
+
+	<div id="prede">
+
+<div id="pre"> <a href="preepisode2.shtml"><img src="images/briefing.jpg" width="213" height="41"
+border=0 alt="Link to preepisode2.shtml" style="opacity:1.0;filter:alpha(opacity=100)"
+onmouseover="this.style.opacity=0.4;this.filters.alpha.opacity=40"
+onmouseout="this.style.opacity=1.0;this.filters.alpha.opacity=100"></a> </div>
+
+
+<div id="post"> <a href="postepisode2.shtml"><img src="images/debriefing.jpg" width="263"
+height="33" border=0 alt="Link to postepisode2.shtml" style="opacity:1.0;filter:alpha(opacity=100)"
+onmouseover="this.style.opacity=0.4;this.filters.alpha.opacity=40"
+onmouseout="this.style.opacity=1.0;this.filters.alpha.opacity=100"></a> </div>
+
+
+	</div>
+
+
+
+
+<div id="left"> <p> <span class="partial"> Click to limit the notes to specific areas: </span> </p>
+<span class="defaultselected"> <a href="#" onclick="setActiveStyleSheet('default'); return
+false;">All Notes</a> </span><br> <span class="noneselected"> <a href="#"
+onclick="setActiveStyleSheet('none'); return false;">No Notes</a> </span><br> <span
+class="bioselected"> <a href="#" onclick="setActiveStyleSheet('bio'); return
+false;">Biographical</a> </span><br> <span class="historicalselected"> <a href="#"
+onclick="setActiveStyleSheet('historical'); return false;">Historical</a> </span><br> <span
+class="vocabselected"> <a href="#" onclick="setActiveStyleSheet('vocab'); return
+false;">Vocabulary</a> </span><br> <span class="styleselected"> <div class="style"> <a href="#"
+onclick="setActiveStyleSheet('style'); return false;">Style<span>This episode's writing style, as
+identified by Stuart Gilbert in his scheme of Ulysses (as cited on Moxham,
+http://www.ulysses-art.demon.co.uk/scheme.html), is "Narrative: Young". The narrative style is
+probably the style you are most used to with storytelling; notable here is the "young" morning
+style, as delivered by the young Stephen Dedalus, as opposed to the "mature" narrative style used
+during the description of Bloom's adult habits in the "Calypso" episode, and the "old" narrative
+style used in the "Eumaeus" episode at the low point of the day. </span></a></div> </span><br>
+</span> <span class="puzzlesselected"> <a href="#" onclick="setActiveStyleSheet('puzzles'); return
+false;">Puzzles</a> </span><br>
+
+
+
+
+
+<img src="images/nestor/clock2.jpg" width="80" height="80" alt="">
+
+<span class="button"> <a href="http://www.ulyssesulysses.com/comments.shtml">Comments <br> &
+<br>Questions</a> </span>
+
+<span class="help"> <a href="http://www.ulyssesulysses.com/howtouse.shtml">Help!</a> </span> </div>
+</div>
+
+
+<div id="tick"> <img src="images/tick.jpg" width="17" height="545" alt=""> </div>
+
+
+
+<div id="booktext"> <div class="booklinks">
+
+<p> &mdash;You, <a href=''#''>Cochrane<span>one of Stephen's students</span></a>, <a href=''#''>what
+city<span>Stephen is in the middle of quizzing the boys on ancient history, specifically a battle of
+the Greek Pyrrhus.</span></a> sent for him? </p> <p> &mdash;Tarentum, sir. </p> <p>
+
+&mdash;Very good. Well? </p> <p> &mdash;There was a battle, sir. </p> <p> &mdash;Very good. Where?
+</p> <p> The boy's blank face asked the blank window. </p> <p> Fabled by the daughters of memory.
+And yet it was in some way if not as memory fabled it. A phrase, then, of impatience, thud of <a
+href=''#''>Blake's wings of excess.<span>A compound of two of William Blake's proverbs: ''The road
+of excess leads to the palace of wisdom'' and ''No bird soars too high, if he soars with his own
+wings'' (Gifford & Seidman 30)</span></a> <a href=''#''>I hear the ruin of all space<span>Stephen
+combines the idea of the ruin of Troy (referenced by both Pyrrhus's failure to save Greece from the
+Romans, and Mr. Deasy's later reference to Cassandra) with the Blakean concept of the world ending
+'''consumed by fire'... 'the ruins of Time build mansions in Eternity''' (Gifford & Seidman
+30)</span></a>, shattered glass and toppling masonry, and time one livid final flame. What's left us
+then? </p> <p> &mdash;I forget the place, sir. 279 B. C. </p>
+
+<p><div class="historical"> &mdash;<a href=''#''>Asculum<span>the site of Pyrrhus's ultimately
+disastrous (to Pyrrhus's cause) victory over the Romans</span></a>, Stephen said, glancing at the
+name and date in the gorescarred book.</div> </p> <p> &mdash;Yes, sir. And he said: <em>Another
+victory like that and we are done for.</em> </p> <p> <a href=''#''>That phrase the world had
+remembered<span>''Another victory like that and we are done for''; Stephen imagines the sentence
+being spoken.</span></a>. A dull ease of the mind. From a hill above a corpsestrewn plain a general
+speaking to his officers, leaned upon his spear. Any general to any officers. They lend ear. </p>
+<p><div class="historical"> &mdash;You, Armstrong, Stephen said. What was the end of <a
+href=''#''>Pyrrhus<span>''another hero who suffered from usurpation'', Pyrrhus failed to save the
+Greek people from bondage to Rome (Blamires 10); his example echoes the present-day plight of both
+the jews and the Irish. The term ''Pyrrhic victory'' is named after him, as many of his battles were
+won only through heavy losses that were ultimately disastrous (''Another victory like that and we
+are done for''). Image from http://en.wikipedia.org/wiki/File:Arta-Pyrrhus.jpg<br><center><img src="images/nestor/pyrrhus.jpg"
+alt="http://en.wikipedia.org/wiki/File:Arta-Pyrrhus.jpg"></center></span></a>?</div> </p> <p>
+&mdash;End of Pyrrhus, sir? </p>
+
+<p> &mdash;I know, sir. Ask me, sir, Comyn said. </p> <p> &mdash;Wait. You, Armstrong. Do you know
+anything about Pyrrhus? </p> <p><div class="vocab"> A bag of <a href=''#''>figrolls<span>sweet
+pastry containing figs. Image from http://www.inklingmagazine.com/images/article-images/fig_rolls.jpg<br><center><img src="images/nestor/figrolls.jpg"
+alt="http://www.inklingmagazine.com/images/article-images/fig_rolls.jpg"></center></span></a> lay
+snugly in Armstrong's satchel. He curled them between his palms at whiles and swallowed them softly.
+Crumbs adhered to the tissue of his lips. A sweetened boy's breath. Welloff people, proud that their
+eldest son was in the navy. Vico road, Dalkey.</div> </p> <p><div class="historical">
+&mdash;Pyrrhus, sir? <a href=''#''>Pyrrhus, a pier<span>Armstrong, not knowing the answer, jokes by
+declining the word as if it were a Latin noun.</span></a>.</div> </p> <p> All laughed. Mirthless
+high malicious laughter. Armstrong looked round at his classmates, silly glee in profile. In a
+moment they will laugh more loudly, aware of my lack of rule and of the fees their papas pay. </p>
+<p><div class="vocab"> &mdash;Tell me now, Stephen said, poking the boy's shoulder with the book,
+what is a <a href=''#''>pier?<span>a dock or other walkway extending into water upon
+supports. Image from http://en.wikipedia.org/wiki/File:Clevedon_Victorian_pier.jpg<br><center><img src="images/nestor/pier.jpg"
+alt="http://en.wikipedia.org/wiki/File:Clevedon_Victorian_pier.jpg"></center></span></a></div>
+
+</p> <p><div class="default"> &mdash;A pier, sir, Armstrong said. A thing out in the water. A kind
+of a bridge. <a href=''#''>Kingstown pier<span>From the boys' laughter, obviously a popular place
+for spooning with girls. Image from http://www.joyceimages.com/media/ji/Kingstown%20CoDublin.JPG<br><center><img src="images/nestor/kingstown.JPG"
+alt="http://www.joyceimages.com/media/ji/Kingstown%20CoDublin.JPG"></center></span></a>, sir.
+</div></p> <p> Some laughed again: <a href=''#''>mirthless but with meaning<span>though they might
+not enjoy the joke, the boys do enjoy being able to laugh condescendingly at their
+teacher</span></a>. Two in the back bench whispered. Yes. <a href=''#''>They knew<span>The boys,
+despite their relative youth, have all had or know about sexual encounters. </span></a>: had never
+learned nor ever been innocent. All. With envy he watched their faces: <a href=''#''>Edith, Ethel,
+Gerty, Lily<span>Girls the boys know; Gerty is possibly the Gerty who narrates the ''Nausicaa''
+episode later in the book. </span></a>. Their likes: their breaths, too, sweetened with tea and jam,
+their bracelets tittering in the struggle. </p> <p> &mdash;Kingstown pier, Stephen said. Yes, <a
+href=''#''>a disappointed bridge<span>Disappointed in that it doesn't cross any water.</span></a>.
+</p> <p> The words troubled their gaze. </p> <p> &mdash;How, sir? Comyn asked. A bridge is across a
+river. </p> <p>
+
+<a href=''#''>For Haines's chapbook<span>Stephen remarks that his joke on Kingstown Pier would
+probably please Haines enough to record, as with his earlier words on the cracked mirror as ''the
+symbol of Irish art''.</span></a>. <a href=''#''>No-one here to hear<span>Stephen considers that
+since no one who heard his joke was able to appreciate it, he should save it for a witticism during
+tonight's drinking with Mulligan and Haines.</span></a>. Tonight deftly amid wild drink and talk, to
+pierce the polished mail of his mind. <a href=''#''>What then?<span>Repeating his witticism for
+Haines and Mulligan would only make Stephen into a jester or servant, offering up his mind in return
+for a little laughter.</span></a> A jester at the court of his master, indulged and disesteemed,
+winning a clement master's praise. <a href=''#''>Why had they chosen all that part?<span>Stephen
+feels that all the Irish have taken on the role of jesters or servants to others, perhaps because
+their land had been so long run under by foreign people.</span></a> Not wholly for the smooth
+caress. For them too history was a tale like any other too often heard, their land a pawnshop. </p>
+<p><div class="vocab"> <a href=''#''>Had Pyrrhus not fallen<span>Stephen wonders what would have
+happened if significant moments history had ended differently. Had Pyrrhus not fallen, Greece might
+have remained a free country.</span></a> by a <a href=''#''>beldam's<span>a hag</span></a> hand in
+Argos or Julius Caesar not been</div>knifed to death. They are not to be thought away. Time has
+branded them and fettered they are lodged in the room of the <a href=''#''>infinite
+possibilities<span>all the other events in history that didn't occur because another event did;
+Stephen wonders if it's even worth thinking of these alternate realities as existing, since they
+never came to pass.</span></a> they have ousted. But can those have been possible seeing that they
+never were? Or was that only possible which came to pass? <a href=''#''>Weave, weaver of the
+wind<span>dreaming about alternate histories and what could have been instead of focusing on what
+did happen is foolish</span></a>. </p> <p> &mdash;Tell us a story, sir. </p> <p> &mdash;O, do, sir.
+A ghoststory. </p> <p> &mdash;<a href=''#''>Where do you begin in this?<span>Stephen ignores the
+students' request and moves on to their recitation lesson, asking for the line the students were
+supposed to begin from</span></a> Stephen asked, opening another book. </p> <p> -<em>-Weep no
+more,</em> Comyn said.
+
+</p> <p> &mdash;Go on then, Talbot. </p> <p> &mdash;And the story, sir? </p> <p> &mdash;After,
+Stephen said. Go on, Talbot. </p> <p><div class="vocab"> A <a href=''#''>swarthy<span>having dark,
+olive-toned skin</span></a> boy opened a book and propped it nimbly under the <a
+href=''#''>breastwork<span>fortification</span></a> of his satchel. He recited jerks of verse with
+odd glances at the text:</div> </p> <p> <br> <em>&mdash;Weep no more, woful shepherds, weep no
+more<br> For </em><a href=''#''><em>Lycidas</em><span>a Milton poem</span></a><em>, your sorrow, is
+not dead,<br> Sunk though he be beneath the watery floor...</em><br> <br> </p> <p> <a href=''#''>It
+must be a movement then<span>From Aristotle: '''The fulfillment of what exists potentially, in so
+far as it exists potentially, is motion...'' (Gifford & Seidman 32)</span></a>, an actuality of the
+possible as possible. Aristotle's phrase formed itself within the <a href=''#''>gabbled
+verses<span>the sound of the students messing up their recitations</span></a> and floated out into
+the <a href=''#''>studious silence<span>Stephen remembers his recent studies in Paris; he was called
+home from these by the nearing death of his mother</span></a> of the library of Saint Genevieve
+where he had read, sheltered from the sin of Paris, night by night. By his elbow a delicate Siamese
+conned a handbook of strategy. Fed and feeding brains about me: under glowlamps, impaled, with
+faintly beating feelers: and in my mind's darkness a sloth of the underworld, reluctant, shy of
+brightness, shifting her dragon scaly folds. <a href=''#''>Thought is the thought of
+thought<span>playing on two phrases from Aristotle: ''thought of thought'' and ''form of forms''
+(Blamires 11); ''In <em>Metaphysics</em>, Aristotle argues that the prime mover is thought thinking
+on itself'' (Gifford & Seidman 32)</span></a>. Tranquil brightness. The soul is in a manner all that
+is: the soul is the form of forms. Tranquility sudden, vast, <a href=''#''>candescent<span>glowing
+(incandescent)</span></a>: form of forms. </p> <p> Talbot repeated: </p> <p> <br> <em>&mdash;Through
+the dear might of Him that walked the waves,<br> Through the dear might...</em> <br> </p> <p>
+&mdash;<a href=''#''>Turn over<span>Stephen knows the boy is sneaking glances at the text he was
+supposed to have memorized, and allows him to turn the page when he needs to; the boy pretends to
+not know what Stephen is talking about</span></a>, Stephen said quietly. I don't see anything. </p>
+<p> &mdash;What, sir? Talbot asked simply, bending forward.
+
+</p> <p> His hand turned the page over. He leaned back and went on again, having just remembered. Of
+him that walked the waves. Here also over these craven hearts <a href=''#''>his shadow<span>the
+shadow of Jesus, who is ''him who walked the waves'' (walked on water)</span></a> lies and on the
+scoffer's heart and lips and on mine. It lies upon their eager faces who offered him a coin of the
+tribute. <a href=''#''>To Caesar what is Caesar's<span>"Render unto Caesar the things which are
+Caesar's, and unto God the things that are God's" (Matthew 22:21), Jesus's recommended method for
+dealing with secular and divine authorities</span></a>, to God what is God's. A long look from dark
+eyes, a riddling sentence to be woven and woven on the church's looms. Ay. </p> <p> <br> <a
+href=''#''><em>Riddle me, riddle me, randy ro.<br> My father gave me seeds to sow</em><span>part of
+a riddle much like our modern ''What's white and black and read all over?''; it continues, '''The
+seed was black and the ground was white / Riddle me that and I'll give you a pipe''', the answer
+being ''writing a letter'' (Gifford & Seidman 32-33)</span></a>. <br> </p> <p> Talbot slid his
+closed book into his satchel. </p> <p> &mdash;Have I heard all? Stephen asked. </p> <p><div
+class="historical"> &mdash;Yes, sir. <a href=''#''>Hockey<span> field hockey -- not the ice
+type</span></a> at ten, sir. </div> </p> <p> &mdash;Half day, sir. Thursday. </p> <p> &mdash;Who can
+answer a riddle? Stephen asked. </p> <p> They bundled their books away, pencils clacking, pages
+rustling. Crowding together they strapped and buckled their satchels, all gabbling gaily: </p> <p>
+&mdash;A riddle, sir? Ask me, sir. </p> <p> &mdash;O, ask me, sir. </p> <p>
+
+&mdash;A hard one, sir. </p> <p> &mdash;This is the riddle, Stephen said: </p> <p> <br> <a
+href=''#''><em>The cock crew,<br> The sky was blue:<br> The bells in heaven<br> Were striking
+eleven.<br> 'Tis time for this poor soul<br> To go to heaven</em><span>Stephen's riddle pokes fun at
+his students: ''it is unanswerable unless the answer is already known'' (Gifford & Seidman
+33)</span></a>.</em> <br> </p> <p> What is that? </p> <p> &mdash;What, sir? </p> <p>
+
+&mdash;Again, sir. We didn't hear. </p> <p> Their eyes grew bigger as the lines were repeated. After
+a silence Cochrane said: </p> <p> &mdash;What is it, sir? We give it up. </p> <p> Stephen, his
+throat itching, answered: </p> <p> &mdash;<a href=''#''>The fox burying his grandmother under a
+hollybush<span>Stephen's riddle pokes fun at his students: ''it is unanswerable unless the answer is
+already known'' (Gifford & Seidman 33). Note the fox imagery references Stephen, who is cunning like
+a fox and has also recently buried his mother (not quite grandmother, as in the riddle).</span></a>.
+</p> <p> He stood up and gave a shout of nervous laughter to which their cries echoed dismay. </p>
+
+<p> A stick struck the door and a voice in the corridor called: </p> <p> &mdash;Hockey! </p> <p>
+They broke asunder, sidling out of their benches, leaping them. Quickly they were gone and from the
+lumberroom came the rattle of sticks and clamour of their boots and tongues. </p> <p> Sargent who
+alone had lingered came forward slowly, showing an open copybook. His thick hair and scraggy neck
+gave witness of unreadiness and through his misty glasses weak eyes looked up pleading. On his
+cheek, dull and bloodless, a soft stain of ink lay, dateshaped, recent and damp as a snail's bed.
+</p> <p> He held out his copybook. The word <em>Sums</em> was written on the headline. Beneath were
+sloping figures and at the foot a crooked signature with blind loops and a blot. Cyril Sargent: his
+name and seal.
+
+</p> <p> &mdash;Mr Deasy told me to write them out all again, he said, and show them to you, sir.
+</p> <p> Stephen touched the edges of the book. <a href=''#''>Futility<span>Stephen recognizes the
+futility of the weak student's attempt to learn.</span></a>. </p> <p> &mdash;Do you understand how
+to do them now? he asked. </p> <p> &mdash;Numbers eleven to fifteen, Sargent answered. Mr Deasy said
+I was to copy them off the board, sir. </p> <p> &mdash;Can you do them yourself? Stephen asked. </p>
+<p>
+
+&mdash;No, sir. </p> <p> Ugly and futile: lean neck and thick hair and a stain of ink, a snail's
+bed. <a href=''#''>Yet someone had loved him<span>Stephen muses on the wonder of the love of mothers
+for their children, even children as weak and ill-favored as Sargent, as ''the only true thing in
+life''; he obviously has an uneasiness over his relationship to his deceased mother, whose last wish
+he slighted in order to feel free.</span></a>, borne him in her arms and in her heart. But for her
+the race of the world would have trampled him underfoot, a squashed boneless snail. She had loved
+his weak watery blood drained from her own. Was that then real? The only true thing in life? His
+mother's prostrate body the fiery<div class="historical"> <a href=''#''>Columbanus<span>Saint
+Columbanus, like Pyrrhus, was another fighter who failed to save a country; he left Ireland for
+Europe to advocate for the Irish Church (Blamires 11)</span></a> in holy zeal bestrode. She was no
+more: the trembling skeleton of a twig burnt in the fire, an odour of rosewood and wetted ashes. She
+had saved him from being trampled underfoot and had gone, scarcely having been. A poor soul gone to
+heaven: and on a heath beneath winking stars a fox, red reek of rapine in his fur, with merciless
+bright eyes scraped in the earth, listened, scraped up the earth, listened, scraped and
+scraped.</div> </p> <p> Sitting at his side Stephen solved out the problem. <a href=''#''>He proves
+by algebra that Shakespeare's ghost is Hamlet's grandfather<span>echo of Mulligan's early
+explanation of Stephen's Hamlet paradox</span></a>. Sargent peered askance through his slanted
+glasses. Hockeysticks rattled in the lumberroom: the hollow knock of a ball and calls from the
+field. </p> <p><div class="vocab"> Across the page the symbols moved in grave <a
+href=''#''>morrice<span>like ''morris'', a medieval, slow country dance remotely like American
+square dancing. Image from http://en.wikipedia.org/wiki/File:Morris_dancers_Thames_at_Richmond.jpg<br><center><img src="images/nestor/morris.jpg"
+alt="http://en.wikipedia.org/wiki/File:Morris_dancers_Thames_at_Richmond.jpg"></center></span></a>,
+in the mummery of their letters, wearing quaint caps of squares and cubes. <a href=''#''>Give
+hands<span>directions for the dancing of a morris</span></a>, traverse, bow to partner: so: imps of
+fancy <a href=''#''>of the Moors<span>Algebra is of Arabic (i.e. Moorish) invention</span></a>. Gone
+too from the world, <a href=''#''>Averroes and Moses Maimonides<span>great Muslim
+thinkers. Images from http://en.wikipedia.org/wiki/File:Maimonides-2.jpg AND
+http://en.wikipedia.org/wiki/File:AverroesColor.jpg<br><center><img src="images/nestor/averroes.jpg"
+alt="http://en.wikipedia.org/wiki/File:Maimonides-2.jpg AND
+http://en.wikipedia.org/wiki/File:AverroesColor.jpg"></center></span></a>, dark men in <a
+href=''#''>mien<span>appearance</span></a> and movement, flashing in their mocking mirrors the
+obscure soul of the world, a darkness shining in brightness which brightness could not
+comprehend.</div> </p> <p> &mdash;Do you understand now? Can you work the second for yourself? </p>
+<p> &mdash;Yes, sir. </p>
+
+<p><div class="vocab"> In long shaky strokes Sargent copied the data. Waiting always for a word of
+help his hand moved faithfully the unsteady symbols, a faint hue of shame flickering behind his dull
+skin. <em><a href=''#''>Amor matris:</em> subjective and objective genitive<span>''amor matris'' is
+Latin for ''a mother's love''; subjective and objective genitive are the declensions of the Latin
+nouns (declensions are to nouns sort of what conjugations are to verbs; the declension of a noun
+indicates how it is being used in a sentence)</span></a>. With her weak blood and wheysour milk she
+had fed him and hid from sight of others his swaddling bands.</div> </p> <p> Like him was I, these
+sloping shoulders, this gracelessness. My childhood bends beside me. Too far for me to lay a hand
+there once or lightly. Mine is far and his secret as our eyes. Secrets, silent, stony sit in the
+dark palaces of both our hearts: secrets weary of their tyranny: tyrants, willing to be dethroned.
+</p> <p> The sum was done. </p> <p> &mdash;It is very simple, Stephen said as he stood up. </p> <p>
+&mdash;Yes, sir. Thanks, Sargent answered.
+
+</p> <p> He dried the page with a sheet of thin blottingpaper and carried his copybook back to his
+bench. </p> <p> &mdash;You had better get your stick and go out to the others, Stephen said as he
+followed towards the door the boy's graceless form. </p> <p> &mdash;Yes, sir. </p> <p> In the
+corridor his name was heard, called from the playfield. </p> <p> &mdash;Sargent! </p> <p>
+
+&mdash;Run on, Stephen said. Mr Deasy is calling you. </p> <p><div class="vocab"> He stood in the
+porch and watched the laggard hurry towards the scrappy field where sharp voices were in strife.
+They were sorted in teams and Mr Deasy came away stepping over wisps of grass with <a
+href=''#''>gaitered<span>wearing gaiters, an accessory that protected the ankles, and sometimes the
+shins, from mud. Images from http://en.wikipedia.org/wiki/File:HalfChaps2.jpg<br><center><img src="images/nestor/gaiters.jpg"
+alt="http://en.wikipedia.org/wiki/File:HalfChaps2.jpg"></center> </span></a> feet. When he had
+reached the schoolhouse voices again contending called to him. He turned his angry white
+moustache.</div> </p> <p> &mdash;What is it now? he cried continually without listening. </p> <p>
+&mdash;Cochrane and Halliday are on the same side, sir, Stephen said. </p> <p> &mdash;Will you wait
+in my study for a moment, Mr Deasy said, till I restore order here. </p> <p> And as he stepped
+fussily back across the field his old man's voice cried sternly: </p>
+
+<p> &mdash;What is the matter? What is it now? </p> <p> Their sharp voices cried about him on all
+sides: their many forms closed round him, the garish sunshine bleaching the honey of his illdyed
+head. </p> <p><div class="historical"> Stale smoky air hung in the study with the smell of drab
+abraded leather of its chairs. As on the first day he bargained with me here. As it was in the
+beginning, is now. On the sideboard the tray of <a href=''#''>Stuart coins<span>Stuart refers to the
+family that ruled England during the 1600s. Despite the Stuart's Catholicism and Irish ancestry, the
+family brought grief to Ireland by the backlash against their Catholicism following their rule. The
+treasure of their wealth is ''base'', as it has been taken from the Irish people.</span></a>, base
+treasure of a bog: and ever shall be. And snug in their spooncase of purple plush, faded, the twelve
+apostles having preached to all the gentiles: world without end.</div> </p> <p> A hasty step over
+the stone porch and in the corridor. Blowing out his rare moustache Mr Deasy halted at the table.
+</p> <p> &mdash;First, our little financial settlement, he said. </p> <p> He brought out of his coat
+a pocketbook bound by a leather thong. It slapped open and he took from it two notes, one of joined
+halves, and laid them carefully on the table.
+
+</p> <p> &mdash;Two, he said, strapping and stowing his pocketbook away. </p> <p><div class="vocab">
+And now his strongroom for the gold. Stephen's embarrassed hand moved over the shells heaped in the
+cold stone mortar: whelks and money cowries and leopard shells: and this, whorled as an <a
+href=''#''>emir's<span>a noble in a Middle Eastern country</span></a> turban, and this, the scallop
+of saint James. An old pilgrim's hoard, dead treasure, hollow shells.</div> </p> <p> A sovereign
+fell, bright and new, on the soft pile of the tablecloth. </p> <p><div class="vocab"> &mdash;Three,
+Mr Deasy said, turning his little savingsbox about in his hand. These are handy things to have. See.
+This is for <a href=''#''>sovereigns. This is for shillings. Sixpences, halfcrowns. And here
+crowns<span>units of British money. Images from http://buffalobullion.net/images/Edward%20VII.jpg<br><center><img src="images/nestor/sovereign.jpg"
+alt="http://buffalobullion.net/images/Edward%20VII.jpg"></center></span></a>. See.</div> </p> <p> He
+shot from it two crowns and two shillings. </p> <p>
+
+&mdash;Three twelve, he said. I think you'll find that's right. </p> <p> &mdash;Thank you, sir,
+Stephen said, gathering the money together with shy haste and putting it all in a pocket of his
+trousers. </p> <p> &mdash;No thanks at all, Mr Deasy said. You have earned it. </p> <p> Stephen's
+hand, free again, went back to the hollow shells. Symbols too of beauty and of power. A lump in my
+pocket: symbols soiled by greed and misery. </p> <p> &mdash;Don't carry it like that, Mr Deasy said.
+You'll pull it out somewhere and lose it. You just buy one of these machines. You'll find them very
+handy. </p> <p> Answer something. </p>
+
+<p> &mdash;Mine would be often empty, Stephen said. </p> <p> The same room and hour, the same
+wisdom: and I the same. Three times now. <a href=''#''>Three nooses<span>again, Stephen is conscious
+of being a servant; the three nooses are the three times he has accepted money for his work as a
+teacher</span></a> round me here. Well? I can break them in this instant if I will. </p> <p>
+&mdash;Because you don't save, Mr Deasy said, pointing his finger. You don't know yet what money is.
+Money is power. When you have lived as long as I have. I know, I know. If youth but knew. But what
+does Shakespeare say? <em>Put but money in thy purse.</em> </p> <p><div class="default"> &mdash;<a
+href=''#''>Iago<span>Mr. Deasy's line ironically comes from the villain of <em>Othello</em> . This
+makes him not a mentor, like his Odysseyan counterpart Nestor, but another usurper; like Mulligan
+and Cranly, his words tempt Stephen to abandon his personal integrity. Images from http://www.atech.org/faculty/burke/pictures/branaghiago2.jpg<br><center><img
+src="images/nestor/iago.jpg"
+alt="http://www.atech.org/faculty/burke/pictures/branaghiago2.jpg"></center></span></a>, Stephen
+murmured. </div></p> <p> He lifted his gaze from the idle shells to the old man's stare. </p>
+
+<p> &mdash;He knew what money was, Mr Deasy said. He made money. A poet, yes, but an Englishman too.
+Do you know what is the pride of the English? Do you know what is the proudest word you will ever
+hear from an Englishman's mouth? </p> <p> <a href=''#''>The seas' ruler<span>an epithet used earlier
+on Haines, referring to the British imperialist control of the seas</span></a>. His seacold eyes
+looked on the empty bay: it seems history is to blame: on me and on my words, unhating. </p> <p>
+&mdash;That on his empire, Stephen said, the sun never sets. </p> <p> &mdash;Ba! Mr Deasy cried.
+That's not English. A French Celt said that. He tapped his savingsbox against his thumbnail. </p>
+<p> &mdash;I will tell you, he said solemnly, what is his proudest boast. <em>I paid my way.</em>
+</p>
+
+<p> <a href=''#''>Good man, good man<span>Stephen ironically mentally congratulates Deasy's choice
+of maxims</span></a>. </p> <p> <em>&mdash;I paid my way. I never borrowed a shilling in my
+life.</em> Can you feel that? <em>I owe nothing.</em> Can you? </p> <p> <a href=''#''>Mulligan, nine
+pounds, three pairs of socks, one pair brogues, ties. Curran, ten guineas. McCann, one guinea. Fred
+Ryan, two shillings. Temple, two lunches. Russell, one guinea, Cousins, ten shillings, Bob Reynolds,
+half a guinea, Koehler, three guineas, Mrs MacKernan, five weeks' board<span>Stephen mentally lists
+all his debts (it is interesting that he lists himself as indebted to Mulligan, although Stephen has
+paid the rent for their tower and given Mulligan drinking money)</span></a>. <a href=''#''>The
+lump<span>the cash Stephen has on hand</span></a> I have is useless. </p> <p> &mdash;For the moment,
+no, Stephen answered. </p>
+
+<p> Mr Deasy laughed with rich delight, putting back his savingsbox. </p> <p> &mdash;I knew you
+couldn't, he said joyously. But one day you must feel it. We are a generous people but we must also
+be just. </p> <p> &mdash;I fear those big words, Stephen said, which make us so unhappy. </p>
+<p><div class="historical"><div class="vocab"> Mr Deasy stared sternly for some moments over the
+mantelpiece at the shapely bulk of a man in <a href=''#''>tartan<span>plaid (Image from http://en.wikipedia.org/wiki/File:Three_tartans.jpg)<br><center><img
+src="images/nestor/tartans.jpg" 
+alt="http://en.wikipedia.org/wiki/File:Three_tartans.jpg"></center></span></a> <a
+href=''#''>filibegs<span>kilt (Dictionary.com). Image from http://en.wikipedia.org/wiki/File:TeDeumIllust.jpg<br><center><img src="images/nestor/albert.jpg"
+alt="http://en.wikipedia.org/wiki/File:TeDeumIllust.jpg"></center> </span></a>: <a href=''#''>Albert
+Edward, prince of Wales.<span>King Edward VII's official title while his mother, the long-lived
+Queen Victoria, held the throne. Image from http://www.joyceimages.com/media/ji/Edward%20only%20Tartan.JPG<br><center><img src="images/nestor/tartan.JPG"
+alt="http://www.joyceimages.com/media/ji/Edward%20only%20Tartan.JPG"></center> </span></a></div>
+</p> <p><div class="historical"><div class="vocab"> &mdash;You think me an old fogey and an old <a
+href=''#''>tory<span>a conservative</span></a>, his thoughtful voice said. I saw three generations
+since <a href=''#''>O'Connell's<span>Daniel O'Connell, an Irish political leader from roughly a
+century before the time of the story; he was a champion of Irish Catholics and worked for them to be
+admitted to the British Parliament</span></a> time. I remember the famine in '46. Do you know that
+the <a href=''#''>orange lodges<span>''Orange'' Irish were Protestants; the term comes from William
+of Orange (William III, of the house of Orange), a champion of Protestantism over
+Catholicism</span></a> agitated for repeal of the union twenty years before O'Connell did or before
+the prelates of your communion denounced him as a <a href=''#''>demagogue<span>a leader,
+specifically one who gains control of an audience by playing on emotions
+(Dictionary.com)</span></a>? You <a href=''#''>fenians<span>members of organizations focusing on
+freeing Ireland from British rule</span></a> forget some things.</div> </div></p>
+
+<p><div class="vocab"><div class="historical"> Glorious, pious and immortal memory. The lodge of
+Diamond in Armagh the splendid behung with corpses of <a href=''#''>papishes<span>Catholics (from
+papacy, in reference to their allegiance to the Pope); an image of the Catholic-Protestant
+violence</span></a>. Hoarse, masked and armed, <a href=''#''>the planters' covenant<span>many of the
+pro-British protestants were well-off planters, so this probably refers to some anti-Catholic
+resolution</span></a>. <a href=''#''>The black north<span>the north of Ireland was notorious for its
+religious and native Irish vs. British violence (thus, ''black'')</span></a> and true blue bible. <a
+href=''#''>Croppies<span>a derogatory name for Irish rebels against British rule, in reference to
+their cropped (short) hair<br>(http://en.wikipedia.org/wiki/Croppy)</span></a> lie down.</div></div>
+</p> <p> Stephen sketched a brief gesture. </p> <p><div class="vocab"> &mdash;I have rebel blood in
+me too, Mr Deasy said. On the <a href=''#''>spindle side<span>maternally</span></a>. But I am
+descended from sir John Blackwood who voted for the union. We are all Irish, all kings' sons.</div>
+</p> <p> &mdash;Alas, Stephen said. </p> <p><div class="vocab"> &mdash;<a href=''#''><em>Per vias
+rectas</em><span>Latin for ''by the righteous paths''</span></a>, Mr Deasy said firmly, was his
+motto. He voted for it and put on his topboots to ride to Dublin from the Ards of Down to do
+so.</div> </p> <p> <br>
+
+     <em>Lal the ral the ra<br> The rocky road to Dublin.</em> <br> </p> <p> A gruff squire on
+     horseback with shiny topboots. Soft day, sir John! Soft day, your honour!... Day!... Day!...
+     Two topboots jog dangling on to Dublin. Lal the ral the ra. Lal the ral the raddy. </p> <p>
+     &mdash;That reminds me, Mr Deasy said. You can do me a favour, Mr Dedalus, with some of your
+     literary friends. I have a letter here for the press. Sit down a moment. I have just to copy
+     the end. </p> <p> He went to the desk near the window, pulled in his chair twice and read off
+     some words from the sheet on the drum of his typewriter. </p> <p> &mdash;Sit down. Excuse me,
+     he said over his shoulder, <a href=''#''><em>the dictates of common sense.</em><span>Deasy
+     reads portions of the letter he is typing aloud, which is full of trite but high-sounding
+     phrases</span></a> Just a moment.
+
+</p> <p> He peered from under his shaggy brows at the manuscript by his elbow and, muttering, began
+to prod the stiff buttons of the keyboard slowly, sometimes blowing as he screwed up the drum to
+erase an error. </p> <p> <div class="default">Stephen seated himself noiselessly before the <a
+href=''#''>princely presence<span>refers to the portrait of Albert Edward, not Mr.
+Deasy. Image from http://en.wikipedia.org/wiki/File:TeDeumIllust.jpg<br><center><img src="images/nestor/albert.jpg"
+alt="http://en.wikipedia.org/wiki/File:TeDeumIllust.jpg"></center></span></a>. Framed around the
+walls images of vanished horses stood in homage, their meek heads poised in air: lord Hastings'
+Repulse, the duke of Westminster's Shotover, the duke of Beaufort's Ceylon, <em>prix de Paris</em>,
+1866. Elfin riders sat them, watchful of a sign. He saw their speeds, backing king's colours, and
+shouted with the shouts of vanished crowds. </div></p> <p> &mdash;Full stop, Mr Deasy bade his keys.
+But prompt ventilation of this allimportant question... </p> <p> <a href=''#''>Where Cranly led
+me<span>the race courses</span></a> to get rich quick, hunting his winners among the mudsplashed
+brakes, amid the bawls of bookies on their pitches and reek of the canteen, over the motley slush.
+Fair Rebel! Fair Rebel! Even money the favourite: ten to one the field. Dicers and thimbleriggers we
+hurried by after the hoofs, the vying caps and jackets and past the meatfaced woman, a butcher's
+dame, nuzzling thirstily her clove of orange. </p> <p> Shouts rang shrill from the boys' playfield
+and a whirring whistle.
+
+</p> <p> Again: a goal. I am among them, among their battling bodies in a medley, the joust of life.
+You mean that knockkneed mother's darling who seems to be slightly crawsick? Jousts. Time shocked
+rebounds, shock by shock. Jousts, slush and uproar of battles, the frozen deathspew of the slain, a
+shout of spearspikes baited with men's bloodied guts. </p> <p> &mdash;Now then, Mr Deasy said,
+rising. </p> <p> He came to the table, pinning together his sheets. Stephen stood up. </p> <p><div
+class="vocab"> &mdash;I have put the matter into a nutshell, Mr Deasy said. It's about the <a
+href=''#''>foot and mouth disease<span>a plague affecting cattle and other animals</span></a>. Just
+look through it. There can be no two opinions on the matter.</div> </p> <p><div class="vocab"> May I
+trespass on your valuable space. That doctrine of <em>laissez faire</em> which so often in our
+history. Our cattle trade. The way of all our old industries. Liverpool ring which jockeyed the
+Galway harbour scheme. European conflagration. Grain supplies through the narrow waters of the
+channel. The <a href=''#''>pluterperfect<span>Deasy combines two terms related to past tenses,
+''pluperfect'' and ''preterperfect''</span></a> imperturbability of the department of agriculture.
+Pardoned a classical allusion. <a href=''#''>Cassandra<span>A princess of Troy before its downfall.
+Apollo loved her and made her a seer; when his love was not returned, he cursed her so that her
+predictions would be accurate but always unheeded (for example, her prediction of Troy's
+sacking). Image from http://en.wikipedia.org/wiki/File:Cassandra1.jpeg<br><center><img src="images/nestor/cassandra.jpg"
+alt="http://en.wikipedia.org/wiki/File:Cassandra1.jpeg"></center></span></a>. By a woman who was no
+better than she should be. To come to the point at issue.</div> </p> <p> &mdash;I don't mince words,
+do I? Mr Deasy asked as Stephen read on. </p> <p><div class="vocab"> Foot and mouth disease. Known
+as Koch's preparation. Serum and virus. Percentage of salted horses. <a
+href=''#''>Rinderpest<span>another type of cattle plague</span></a>. Emperor's horses at Murzsteg,
+lower Austria. Veterinary surgeons. Mr Henry Blackwood Price. Courteous offer a fair trial. Dictates
+of common sense. Allimportant question. In every sense of the word take the bull by the horns.
+Thanking you for the hospitality of your columns.</div> </p> <p><div class="vocab"> &mdash;I want
+that to be printed and read, Mr Deasy said. You will see at the next outbreak they will put an <a
+href=''#''>embargo<span>a ban on shipping or commerce</span></a> on Irish cattle. And it can be
+cured. It is cured. My cousin, Blackwood Price, writes to me it is regularly treated and cured in
+Austria by cattledoctors there. They offer to come over here. I am trying to work up influence with
+the department. Now I'm going to try publicity. I am surrounded by difficulties, by... intrigues
+by... backstairs influence by...</div> </p> <p> He raised his forefinger and beat the air oldly
+before his voice spoke. </p> <p> &mdash;Mark my words, Mr Dedalus, he said. <a href=''#''>England is
+in the hands of the jews<span>Note how Deasy considers Ireland just a part of England.</span></a>.
+In all the highest places: her finance, her press. And they are the signs of a nation's decay.
+Wherever they gather they eat up the nation's vital strength. I have seen it coming these years. As
+sure as we are standing here the jew merchants are already at their work of destruction. Old England
+is dying. </p>
+
+<p> He stepped swiftly off, his eyes coming to blue life as they passed a broad sunbeam. He faced
+about and back again. </p> <p> &mdash;Dying, he said again, if not dead by now. </p> <p> <br> <a
+href=''#''><em>The harlot's cry from street to street<br> Shall weave old England's
+windingsheet</em><span>from William Blake's ''Auguries of Innocence''</span></a>.</em> <br> </p> <p>
+His eyes open wide in vision stared sternly across the sunbeam in which he halted. </p> <p>
+&mdash;<a href=''#''>A merchant<span>Stephen gently suggests that the hatred of unscrupulous 
+merchants should be directed against the merchants themselves, not against a race</span></a>,
+Stephen said, is one who buys cheap and sells dear, jew or gentile, is he not? </p>
+
+<p> &mdash;<a href=''#''>They sinned against the light<span>some Christians continued to blame
+modern Jews for the execution of Jesus</span></a>, Mr Deasy said gravely. And you can see the
+darkness in their eyes. And that is why they are wanderers on the earth to this day. </p> <p> On the
+steps of the Paris stock exchange the goldskinned men quoting prices on their gemmed fingers. Gabble
+of geese. They swarmed loud, uncouth about the temple, their heads thickplotting under maladroit
+silk hats. Not theirs: these clothes, this speech, these gestures. Their full slow eyes belied the
+words, the gestures eager and unoffending, but knew the rancours massed about them and knew their
+zeal was vain. Vain patience to heap and hoard. Time surely would scatter all. A hoard heaped by the
+roadside: plundered and passing on. Their eyes knew their years of wandering and, patient, knew the
+dishonours of their flesh. </p> <p> &mdash;<a href=''#''>Who has not?<span>i.e. Who has not sinned
+in some way?</span></a> Stephen said. </p> <p> &mdash;What do you mean? Mr Deasy asked. </p> <p> He
+came forward a pace and stood by the table. His underjaw fell sideways open uncertainly. Is this old
+wisdom? He waits to hear from me. </p> <p> &mdash;History, Stephen said, is a nightmare from which I
+am trying to awake.
+
+</p> <p> From the playfield the boys raised a shout. A whirring whistle: goal. What if that
+nightmare gave you a back kick? </p> <p> &mdash;The ways of the Creator are not our ways, Mr Deasy
+said. All human history moves towards one great goal, the manifestation of God. </p> <p> Stephen
+jerked his thumb towards the window, saying: </p> <p> &mdash;That is God. </p> <p> Hooray! Ay!
+Whrrwhee! </p> <p>
+
+&mdash;What? Mr Deasy asked. </p> <p> &mdash;A shout in the street, Stephen answered, shrugging his
+shoulders. </p> <p> Mr Deasy looked down and held for awhile the wings of his nose tweaked between
+his fingers. Looking up again he set them free. </p> <p> &mdash;I am happier than you are, he said.
+We have committed many errors and many sins. A woman brought sin into the world. For a woman who was
+no better than she should be, Helen, the runaway wife of Menelaus, ten years the Greeks made war on
+Troy. A faithless wife first brought the strangers to our shore here, MacMurrough's wife and her
+leman, O'Rourke, prince of Breffni. A woman too brought Parnell low. Many errors, many failures but
+not the one sin. I am a struggler now at the end of my days. But I will fight for the right till the
+end. </p> <p> <br> <em>For Ulster will fight<br> And Ulster will be right.</em> <br> </p> <p>
+
+Stephen raised the sheets in his hand. </p> <p> &mdash;Well, sir, he began... </p> <p> &mdash;I
+foresee, Mr Deasy said, that you will not remain here very long at this work. You were not born to
+be a teacher, I think. Perhaps I am wrong. </p> <p> &mdash;A learner rather, Stephen said. </p> <p>
+And here what will you learn more? </p> <p> Mr Deasy shook his head. </p>
+
+<p> &mdash;Who knows? he said. To learn one must be humble. But life is the great teacher. </p> <p>
+Stephen rustled the sheets again. </p> <p> &mdash;As regards these, he began. </p> <p> &mdash;Yes,
+Mr Deasy said. You have two copies there. If you can have them published at once. </p> <p> <a
+href=''#''><em>Telegraph. Irish Homestead</em><span>two Dublin papers with which Stephen has
+connections</span></a>.</em> </p>
+
+<p> &mdash;I will try, Stephen said, and let you know tomorrow. I know two editors slightly. </p>
+<p> &mdash;That will do, Mr Deasy said briskly. I wrote last night to Mr Field, M.P. There is a
+meeting of the cattletraders' association today at the City Arms hotel. I asked him to lay my letter
+before the meeting. You see if you can get it into your two papers. What are they? </p> <p>
+<em>&mdash;The Evening Telegraph...</em> </p> <p> &mdash;That will do, Mr Deasy said. There is no
+time to lose. Now I have to answer that letter from my cousin. </p> <p> &mdash;Good morning, sir,
+Stephen said, putting the sheets in his pocket. Thank you. </p> <p>
+
+&mdash;Not at all, Mr Deasy said as he searched the papers on his desk. I like to break a lance with
+you, old as I am. </p> <p> &mdash;Good morning, sir, Stephen said again, bowing to his bent back.
+</p> <p><div class="vocab"> He went out by the open porch and down the gravel path under the trees,
+hearing the cries of voices and crack of sticks from the playfield. The lions <a
+href=''#''>couchant<span>heraldic term for lying down. Image from http://chestofbooks.com/food/household/Woman-Encyclopaedia-4/images/The-lion-couchant-or-lying-
+down-figures-frequently-upon-co.jpg<br><center><img
+src="images/nestor/couchant.jpg"
+alt="http://chestofbooks.com/food/household/Woman-Encyclopaedia-4/images/The-lion-couchant-or-lying-
+down-figures-frequently-upon-co.jpg"></center></span></a> on the pillars as he passed out through
+the gate: toothless terrors. Still I will help him in his fight. Mulligan will dub me a new name:
+the bullockbefriending bard.</div> </p> <p> &mdash;Mr Dedalus! </p> <p> Running after me. No more
+letters, I hope. </p> <p> &mdash;Just one moment. </p>
+
+<p> &mdash;Yes, sir, Stephen said, turning back at the gate. </p> <p> Mr Deasy halted, breathing
+hard and swallowing his breath. </p> <p> &mdash;I just wanted to say, he said. Ireland, they say,
+has the honour of being the only country which never persecuted the jews. Do you know that? No. And
+do you know why? </p> <p> He frowned sternly on the bright air. </p> <p> &mdash;Why, sir? Stephen
+asked, beginning to smile. </p> <p> &mdash;Because she never let them in, Mr Deasy said solemnly.
+
+</p> <p> A coughball of laughter leaped from his throat dragging after it a rattling chain of
+phlegm. He turned back quickly, coughing, laughing, his lifted arms waving to the air. </p> <p>
+&mdash;She never let them in, he cried again through his laughter as he stamped on gaitered feet
+over the gravel of the path. That's why. </p> <p> On his wise shoulders through the checkerwork of
+leaves the sun flung spangles, dancing coins. </p>
+
+</div>
+
+
+<!--#include virtual="includes/footer.shtml" -->
+
+</div>
+
+</body> </html>

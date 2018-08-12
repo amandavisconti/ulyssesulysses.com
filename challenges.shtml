@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head> 
+  <title>www.UlyssesUlysses.com</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <link href="css/regular.css" rel="stylesheet" type="text/css" />
+  <link rel="Shortcut Icon" href="http://www.ulyssesulysses.com/images/favicon.ico" />
+</head> 
+<body> 
+
+<!--#include virtual="includes/topper.shtml" -->
+
+<div id="container">
+
+<div id="bodycontent">
+<p>
+<h1>What's So Hard About Reading <em>Ulysses</em>?</h1>
+</p>
+<p>
+	Why should anyone need help reading a book -- say, <em>Ulysses</em>? There are many reasons why the novel can be difficult to read the first time through, ranging from the need to have knowledge in many disparate areas (e.g. French, Latin and Greek; Irish and Catholic history; and a familiarity with the events of Homer's <em>Odyssey</em>) to the sheer mental effort required to read a book that is both long and complex. When choosing what pieces of <em>Ulysses</em>'s text to annotate, I paid special attention to five areas where, from personal experience and the comments of other readers of <em>Ulysses</em>, I felt constituted the major difficulties in understanding the novel: history, biography, puzzles, vocabulary, and writing styles.
+</p>
+<p>
+	History refers to the historical knowledge Joyce assumed in his readers; this knowledge comprises both the facts that would have been common knowledge to people living in Dublin at the turn of the century (when <em>Ulysses</em> is set), as well as a wealth of allusions to elements both Irish and ancient history (including the ancient fiction of the Odyssey, which much of <em>Ulysses</em>'s plot parallels). 
+</p>
+<p>
+Biography refers to the parts of the novel based on Joyce's life; as in his previous work <em>A Portrait of the Artist as a Young Man</em>, the character Stephen Dedalus was intended as a parallel to the young Joyce's life and attitudes. Understanding Joyce's youthful attitudes (e.g. his early experiences of Irish insularity) as well as the actual events of his life (e.g. Joyce's stay in a Martello tower with Mulligan's prototype Oliver Gogarty) do much to explain Stephen's attitudes toward Ireland, the Catholic religion, and Mulligan. 
+</p>
+<p>
+Puzzles refers to the small puzzles Joyce left in his novel, much to the delight of academicians (e.g. the identity of the man in the Mackintosh); I used my annotations to call out the clues literary analysts usually point to in proving their solutions to these conundrums. 
+</p>
+<p>
+Vocabulary refers to three types of words and phrases: those which are English, but may not be in a reader's normal speech (e.g. ''untonsured''); those which are unfamiliar through being geographically restricted to Dublin or Ireland, or chronologically limited to the slang of the turn of the century (e.g. ''Muglins'', ''Dottyville'', and Stephen's mourning attire); and foreign words (<em>Ulysses</em>'s languages include Greek, Latin, and French, among others). 
+</p>
+<p>
+Finally, writing styles refers to Joyce's systematic changes in the manner of writing each episode; these begin with Stephen Dedalus's youthful narrative style at the beginning of the day, progress to a theatrical climax (written in the style of a play), and end with Molly Bloom's famous stream-of-consciousness monologue upon waking very late at night. These shifts in style can be difficult to catch up with; even if the shifts do not throw a writer off, it can be difficult to understand how a given style complements the themes in an episode (as with the ''Oxen of the Sun'' episode, which mimics the history of English literature to parallel the episode's themes of birth and growth). As will be discussed below, the reader can toggle the text's annotations to only show links to help in one of these specific areas.
+</p>
+<p>
+	Episodes also vary in elements like time of day; thematic color(s), anatomical organ,  and science; and symbols, a structure so complex that Joyce himself wrote out a chart explaining each episode's motifs to help his friend Carlo Linati (these charts became the ''Linati Schema''). The sentences themselves are frequently full of allusions and difficult concepts. Consider an example from <em>Ulysses</em>'s ''Nestor'' episode, which I consider to be at about an average level of difficulty relative to the rest of the novel: ''Glorious, pious and immortal memory. The lodge of Diamond in Armagh the splendid behung with corpses of papishes. Hoarse, masked and armed, the planters' covenant. The black north and true blue bible. Croppies lie down''; the text surrounding this excerpt does little to make its import clearer. This example captures both the novel's jumps into stream-of-consciousness as well as its constant use of allusions and unfamiliar vocabulary. Combined with the length of the novel and the intricacy of its themes, characters, and plots, <em>Ulysses</em> easily can present readers with a daunting experience.
+</p>
+
+</div>
+
+<!--#include virtual="includes/footer.shtml" -->
+
+</div>
+	
+</body> 
+</html>

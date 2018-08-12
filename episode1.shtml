@@ -1,0 +1,994 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html xmlns="http://www.w3.org/1999/xhtml"
+xml:lang="en" lang="en"> <head> <title>www.UlyssesUlysses.com</title> <meta
+http-equiv="Content-Type" content="text/html; charset=utf-8" /> <link rel="stylesheet"
+type="text/css" href="css/default.css" title="default" /> <link rel="alternate stylesheet"
+type="text/css" href="css/none.css"  title="none" /> <link rel="alternate stylesheet"
+type="text/css" href="css/bio.css" title="bio" /> <link rel="alternate stylesheet" type="text/css"
+href="css/puzzles.css" title="puzzles" /> <link rel="alternate stylesheet" type="text/css"
+href="css/style.css" title="style" /> <link rel="alternate stylesheet" type="text/css"
+href="css/historical.css" title="historical" /> <link rel="alternate stylesheet" type="text/css"
+href="css/vocab.css" title="vocab" />
+
+  <script type="text/javascript" src="script/styleswitcher.js"></script>
+
+
+  <link rel="Shortcut Icon" href="http://www.ulyssesulysses.com/images/favicon.ico" /> </head>
+  <body>
+
+<!--#include virtual="includes/topper.shtml" -->
+
+<div id="underline1"> </div>
+
+<div id="chapter"> <a href="episode1.shtml"> <img src="images/episode1.jpg" width="699" height="33"
+border=0 alt="Link to episode1.shtml" style="opacity:1.0;filter:alpha(opacity=100)"
+onmouseover="this.style.opacity=0.4;this.filters.alpha.opacity=40"
+onmouseout="this.style.opacity=1.0;this.filters.alpha.opacity=100"></a> </div>
+
+	<div id="prede">
+
+<div id="pre"> <a href="preepisode1.shtml"><img src="images/briefing.jpg" width="213" height="41"
+border=0 alt="Link to preepisode1.shtml" style="opacity:1.0;filter:alpha(opacity=100)"
+onmouseover="this.style.opacity=0.4;this.filters.alpha.opacity=40"
+onmouseout="this.style.opacity=1.0;this.filters.alpha.opacity=100"></a> </div>
+
+<div id="post"> <a href="postepisode1.shtml"><img src="images/debriefing.jpg" width="263"
+height="33" border=0 alt="Link to postepisode1.shtml" style="opacity:1.0;filter:alpha(opacity=100)"
+onmouseover="this.style.opacity=0.4;this.filters.alpha.opacity=40"
+onmouseout="this.style.opacity=1.0;this.filters.alpha.opacity=100"></a> </div>
+
+
+	</div>
+
+
+
+<div id="left"> <p> <span class="partial"> Click to limit the notes to specific areas: </span> </p>
+<span class="defaultselected"> <a href="#" onclick="setActiveStyleSheet('default'); return
+false;">All Notes</a> </span><br> <span class="noneselected"> <a href="#"
+onclick="setActiveStyleSheet('none'); return false;">No Notes</a> </span><br> <span
+class="bioselected"> <a href="#" onclick="setActiveStyleSheet('bio'); return
+false;">Biographical</a> </span><br> <span class="historicalselected"> <a href="#"
+onclick="setActiveStyleSheet('historical'); return false;">Historical</a> </span><br> <span
+class="vocabselected"> <a href="#" onclick="setActiveStyleSheet('vocab'); return
+false;">Vocabulary</a> </span><br> <span class="styleselected"> <div class="style"> <a href="#"
+onclick="setActiveStyleSheet('style'); return false;">Style<span>This episode's writing style, as
+identified by Stuart Gilbert in his scheme of Ulysses (as cited on Moxham,
+http://www.ulysses-art.demon.co.uk/scheme.html), is "Narrative: Young". The narrative style is
+probably the style you are most used to with storytelling; notable here is the "young" morning
+style, as delivered by the young Stephen Dedalus, as opposed to the "mature" narrative style used
+during the description of Bloom's adult habits in the "Calypso" episode, and the "old" narrative
+style used in the "Eumaeus" episode at the low point of the day. </span></a></div> </span><br>
+</span> <span class="puzzlesselected"> <a href="#" onclick="setActiveStyleSheet('puzzles'); return
+false;">Puzzles</a> </span><br>
+
+
+
+
+
+<img src="images/telemachus/clock1.jpg" width="80" height="79" alt="">
+
+<span class="button"> <a href="http://www.ulyssesulysses.com/comments.shtml">Comments <br> &
+<br>Questions</a> </span>
+
+<span class="help"> <a href="http://www.ulyssesulysses.com/howtouse.shtml">Help!</a> </span> </div>
+</div>
+
+<div id="tick"> <img src="images/tick.jpg" width="17" height="545" alt=""> </div>
+
+
+<div id="booktext"> <div class="booklinks">
+
+<p><div class="default"> <a href="#">S<span><em>Ulysses</em> is divided into three sections, and the
+first letter of each appears in large type. The first three episodes (focusing on Stephen Dedalus)
+begin with S, the section encompassing the bulk of the novel (focusing on Leopold Bloom) begins with
+M, and the last section (three episodes which follow Stephen and Leopold and then relate a monologue
+by Molly Bloom) begins with P. "SMP" supposedly refers to the first initials of the three main
+characters: Stephen Dedalus, Molly Bloom, and Poldy (Molly's pet name for Leopold). Image from http://spencer.lib.ku.edu/exhibits/bannedbooks/JoyceUlysses2.jpg.
+Bloom.<br><center><img src="images/telemachus/S.jpg"
+alt="http://spencer.lib.ku.edu/exhibits/bannedbooks/JoyceUlysses2.jpg"></center></span></a></div>
+tately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and
+a razor lay crossed. A yellow dressinggown, ungirdled, was sustained gently behind him on the mild
+morning air. He held the bowl aloft and intoned: </p> <p><div class="vocab"> <a
+href="#">&mdash;<em>Introibo ad altare Dei</em>.<span>A line spoken by a priest during a Latin
+Catholic mass, meaning "I will go to the altar of God". With his morning shave, Mulligan begins a
+mockery of the mass that is sustained for much of the episode, complete with blessings and the
+shaving bowl as holy incense. This mockery is a subtle taunt to Stephen, who was extremely devout as
+a boy; although he realized in adolescence that he could not be both a true artist and serve another
+(see Joyce's <em>Portrait of the Artist as a Young Man</em> for the story of Stephen's childhood),
+Stephen still has more respect for the religion and customs of the "native" Irish (i.e. unAnglicized
+and uneducated -- both Mulligan and Stephen are actually native to Ireland) than the opportunistic
+Mulligan, who is happy to use his medical training and urban upbringing to ingratiate himself with
+Englishmen such as their boarder Haines. Image from http://www.christusrex.org/www2/cantgreg/partituras/co_introibo.gif.<br><center><img src="images/telemachus/introibo.jpg"
+alt="http://www.christusrex.org/www2/cantgreg/partituras/co_introibo.gif"></center> 
+</span></a></div> </p> <p>
+
+Halted, he peered down the dark winding stairs and called out coarsely: </p> <p><div class="vocab">
+&mdash;Come up, <a href="#">Kinch!<span>Mulligan's nickname for Stephen, which he defines as a
+"knife-blade" (the OED defines a kinch as a type of knot and I've never been able to find the word
+defined as a knife, but for the purposes of the novel it makes the most sense to go with Mulligan's
+definition). This nickname, which alludes to the sharpness of Stephen's intellect, is used somewhat
+patronizingly -- Mulligan recognizes that Stephen has greater intellectual powers than him and is
+passive-aggressively jealous, but is also aware that Stephen does not use his mind to as great a
+social advantage as Mulligan does. Image from http://www.aceros-de-hispania.com/image/fallkniven-knife/idun-fallkniven-knife.jpg<br><center><img src="images/telemachus/knife.jpg"
+alt="http://www.aceros-de-hispania.com/image/fallkniven-knife/idun-fallkniven-knife.jpg"></center></
+span></a> Come up, you fearful <a href="#">jesuit!<span>a Catholic order that organized many schools
+in Ireland. The Jesuits were characterized as skilled equivocators, using craftiness to answer
+unanswerable religious questions and also protecting the order during the time it was suppressed by
+the Pope. Stephen has been taught by Jesuits; Mulligan fears his subtle intellect, which often
+allows him to provide answers through roundabout logic (see his discussion of Hamlet, mentioned
+later in this episode and explored more fully in the episode Scylla and Charybdis). Image from http://www.rowanpix.com/reenactments/images/a-Jesuit.jpg<br><center><img
+src="images/telemachus/jesuit.jpg"
+alt="http://www.rowanpix.com/reenactments/images/a-Jesuit.jpg"></center></span></a></div> </p>
+<p><div class="vocab"> Solemnly he came forward and mounted the round <a href="#">gunrest.<span>the
+tower retains fortifications from when it was used for military defense. Image from http://images.google.com/imgres?imgurl=http://www.tomlovell.com/2c03.jpg&imgrefurl=http://www.
+tomlovell.com/l2000-r2.html&usg=__EBftcL-65x_scvKBlXbmvRw6QVk=&h=376&w=596&sz=36&hl=en&start=42&sig2
+=aBiyWoVSrHCfaGSpVA2yug&um=1&tbnid=V8jyu_yLMAVo_M:&tbnh=85&tbnw=135&prev=/images%3Fq%3Dtower%
+2Bgunrest%26ndsp%3D18%26hl%3Den%26safe%3Doff%26client%3Dfirefox-a%26rls%3Dorg.mozilla:en-US:official
+%26sa%3DN%26start%3D36%26um%3D1&ei=1NnWSdDkK4PCMrijwe0O<br><center><img
+src="images/telemachus/gunrest.jpg"
+alt="http://images.google.com/imgres?imgurl=http://www.tomlovell.com/2c03.jpg&imgrefurl=http://www.
+tomlovell.com/l2000-r2.html&usg=__EBftcL-65x_scvKBlXbmvRw6QVk=&h=376&w=596&sz=36&hl=en&start=42&sig2
+=aBiyWoVSrHCfaGSpVA2yug&um=1&tbnid=V8jyu_yLMAVo_M:&tbnh=85&tbnw=135&prev=/images%3Fq%3Dtower%
+2Bgunrest%26ndsp%3D18%26hl%3Den%26safe%3Doff%26client%3Dfirefox-a%26rls%3Dorg.mozilla:en-US:official
+%26sa%3DN%26start%3D36%26um%3D1&ei=1NnWSdDkK4PCMrijwe0O"></center></span></a> He faced about and
+blessed gravely thrice the tower, the surrounding land and the awaking mountains. Then, catching
+sight of Stephen Dedalus, he bent towards him and made <a href="#">rapid crosses<span>Mulligan
+continues to mock the Mass by making the sign of the cross</span></a> in the air, gurgling in his
+throat and shaking his head. Stephen Dedalus, displeased and sleepy, leaned his arms on the top of
+the staircase and looked coldly at the shaking gurgling face that blessed him, equine in its length,
+and at the light <a href="#">untonsured<span>Tonsuring was the practice of shaving off the crown of
+a priest or monk's hair to show their disdain for caring about their physical appearance. Image from http://en.wikipedia.org/wiki/File:Tonsure_fx_tr.png
+<br><center><img src="images/telemachus/tonsure.jpg"
+alt="http://en.wikipedia.org/wiki/File:Tonsure_fx_tr.png"></center></span></a> hair, <a
+href="#">grained and hued like pale oak<span>these woody references "hint at the treachery of the
+Trojan horse" (Blamires 3). Image from http://en.wikipedia.org/wiki/File:Troj_Horse.JPG<br><center><img src="images/telemachus/trojanhorse.JPG"
+alt="http://en.wikipedia.org/wiki/File:Troj_Horse.JPG"></center></span></a>.</div> </p> <p> Buck
+Mulligan peeped an instant under the mirror and then covered the bowl smartly. </p> <p> &mdash;Back
+to barracks! he said sternly. </p> <p> <a href="#">He added in a preacher's tone:<span>Mulligan
+continues to mock the mass.</span></a> </p>
+
+<p><div class="vocab"> &mdash;For this, O dearly beloved, is the genuine <a
+href="#">Christine<span>a jokingly female version of Christ</span></a>: body and soul and blood and
+ouns. Slow music, please. Shut your eyes, gents. One moment. A little trouble about those <a
+href="#">white corpuscles<span>Mulligan's shaving lather serves as the "white corpuscles" of holy
+blood, while the whistles imitate the bells of a Mass (Blamires 3)</span></a>. Silence, all.</div>
+</p> <p><div class="vocab"> He peered sideways up and gave a long slow whistle of call, then paused
+awhile in rapt attention, his even white teeth glistening here and there with gold points. <a
+href="#">Chrysostomos<span>probably a reference to Saint John Chrysostom, nicknamed "the
+golden-mouthed" for his speaking ability; Stephen links Mulligan's glibness to his gold-capped
+teeth. Image from http://upload.wikimedia.org/wikipedia/commons/c/cf/Johnchrysostom.jpg<br><center><img src="images/telemachus/chrysostomos.jpg"
+alt="http://upload.wikimedia.org/wikipedia/commons/c/cf/Johnchrysostom.jpg"></center></span></a>.
+Two strong shrill whistles answered through the calm.</div> </p> <p> &mdash;Thanks, old chap, he
+cried briskly. That will do nicely. Switch off the current, will you? </p> <p><div class="vocab"> He
+skipped off the gunrest and looked gravely at his watcher, gathering about his legs the loose folds
+of his gown. The plump shadowed face and sullen oval jowl recalled a <a href="#">prelate<span>a
+person of high rank and influence within the church, such as a bishop. Image from http://imagecache.allposters.com/images/pic/MEPOD/10009722~Gil-Alvarez-Carillo-De-Albornoz-
+Known-as-Egidio-Spanish-Soldier-and-Prelate-Posters.jpg<br><center><img
+src="images/telemachus/prelate.jpg"
+alt="http://imagecache.allposters.com/images/pic/MEPOD/10009722~Gil-Alvarez-Carillo-De-Albornoz-
+Known-as-Egidio-Spanish-Soldier-and-Prelate-Posters.jpg"></center></span></a>, patron of arts in the
+middle ages. A pleasant smile broke quietly over his lips.</div> </p> <p><div class="vocab">
+&mdash;The mockery of it! he said gaily. <a href="#">Your absurd name, an ancient
+Greek!<span>Dedalus is an unusual name for an Irishman, coming from the mythical Greek Daedalus, the
+great inventor who created the labyrinth for King Minos and escaped from Crete using wings he made
+from birds' feathers (his son, Icarus, was given a similar set of wings for escaping, but flew so
+near the sun that the wings disintegrated and he drowned). The reference to this Greek pair is
+interesting, as Daedalus is often used to exemplify the rational, unemotive, scientific mind, while
+Icarus represents the unrestrained artist; Stephen bears far more resemblance to the
+latter. Image from http://www.joyceimages.com/media/ji/Icarus%20Dedalus.JPG<br><center><img src="images/telemachus/dedalus.JPG"
+alt="http://www.joyceimages.com/media/ji/Icarus%20Dedalus.JPG"></center></span></a></div> </p> <p>
+He pointed his finger in friendly jest and went over to the parapet, laughing to himself. Stephen
+Dedalus stepped up, followed him wearily halfway and sat down on the edge of the gunrest, watching
+him still as he propped his mirror on the parapet, dipped the brush in the bowl and lathered cheeks
+and neck.
+
+</p> <p> Buck Mulligan's gay voice went on. </p> <p><div class="vocab"> &mdash;My name is absurd
+too: Malachi Mulligan, two <a href="#">dactyls<span>words consisting of one long (or accented)
+syllable followed by two short (or unaccented) syllables</span></a>. But it has a <a
+href="#">Hellenic<span>pertaining to the ancient Greeks, around the time when their culture and
+learning most flourished</span></a> ring, hasn't it? Tripping and sunny like the buck himself. We
+must go to</div>Athens. Will you come if I can get the <a href="#">aunt<span>Mulligan's aunt, like
+Mulligan, is an Anglicized Irishwoman; she looks askance at the unkempt Stephen and his family,
+which with its poverty and many children exemplifies how the English perceived Irish
+backwardness</span></a> to fork out twenty quid? </p> <p> He laid the brush aside and, laughing with
+delight, cried: </p> <p><div class="vocab"> &mdash;Will he come? The <a
+href="#">jejune<span>youthful, lacking knowledge or experience</span></a> jesuit!</div> </p> <p>
+Ceasing, he began to shave with care. </p> <p>
+
+&mdash;Tell me, Mulligan, Stephen said quietly. </p> <p> &mdash;Yes, my love? </p> <p> <div
+class="vocab"><div class="puzzles"><div class="bio"> &mdash;How long is <a
+href="#">Haines<span>Haines is an Englishman from Oxford who is boarding in the tower with Stephen
+and Mulligan, apparently with the goal of researching Irish folk tradition. The previous evening he
+had a nightmare involving shooting a black panther; the dream disturbed Stephen, who feared Haines
+would try to shoot his gun while half-awake. This story parallels a story from Joyce's own life (see
+Ellmann's biography of Joyce for details).</span></a> going to stay in this tower?</div></div></div>
+</p> <p> Buck Mulligan showed a shaven cheek over his right shoulder. </p> <p><div class="vocab">
+&mdash;God, isn't he dreadful? he said frankly. A ponderous <a href="#">Saxon<span>Englishman
+(England was populated by Saxons before the William of Normandy introduced the French)</span></a>.
+He thinks you're not a gentleman. God, these bloody English! Bursting with money and indigestion.
+Because he comes from Oxford. You know, Dedalus, you have the real Oxford manner. He can't make you
+out. O, my name for you is the best: Kinch, the knife-blade.</div> </p> <p> He shaved warily over
+his chin. </p>
+
+<p><div class="puzzles"> &mdash;He was raving all night about a <a href="#">black
+panther<span>Haines' dream foreshadows the arrival of main character Leopold Bloom in the story;
+Bloom, a Jewish Dubliner, social misfit, and outcast from his own home, is often described as a sort
+of "dark horse". Image from http://www.poster.net/anonymous/anonymous-black-panther-5000217.jpg<br><center><img src="images/telemachus/panther.jpg"
+alt="http://www.poster.net/anonymous/anonymous-black-panther-5000217.jpg"></center></span></a>,
+Stephen said. Where is his guncase?</div> </p> <p> &mdash;A woful lunatic! Mulligan said. Were you
+in a funk? </p> <p> &mdash;I was, Stephen said with energy and growing fear. Out here in the dark
+with a man I don't know raving and moaning to himself about shooting a black panther. <div
+class="vocab"><a href="#">You saved men from drowning<span>Mulligan's rescue of a drowning man will
+be discussed later in the novel; for all that Stephen feels morally superior to the British-toadying
+Mulligan, he recognizes he would not have been brave enough to save the man's life.</span></a>. I'm
+not a hero, however. If he stays on here I am off.</div> </p> <p> Buck Mulligan frowned at the
+lather on his razorblade. He hopped down from his perch and began to search his trouser pockets
+hastily. </p> <p> &mdash;Scutter! he cried thickly. </p> <p> He came over to the gunrest and,
+thrusting a hand into Stephen's upper pocket, said:
+
+</p> <p> &mdash;Lend us a loan of your noserag to wipe my razor. </p> <p> Stephen suffered him to
+pull out and hold up on show by its corner a dirty crumpled handkerchief. Buck Mulligan wiped the
+razorblade neatly. Then, gazing over the handkerchief, he said: </p> <p> &mdash;The bard's noserag!
+A new art colour for our Irish poets: snotgreen. You can almost taste it, can't you? </p> <p> He
+mounted to the parapet again and gazed out over Dublin bay, his fair oakpale hair stirring slightly.
+</p> <p><div class="historical"><div class="vocab"> &mdash;God! he said quietly. Isn't the sea what
+<a href="#">Algy<span>Algernon Charles Swinburne, a controversial Victorian poet. Image from http://www.victorianweb.org/painting/scott/paintings/4.jpg<br><center><img
+src="images/telemachus/swinburne.jpg"
+alt="http://www.victorianweb.org/painting/scott/paintings/4.jpg"></center></span></a> calls
+it:</div> <a href="#">a great sweet mother<span>From a Swinburne poem: "I will go back to the great
+sweet mother, / Mother and lover of men, the sea"</span></a>? The snotgreen sea. The
+scrotumtightening sea. <a href="#"><em>Epi oinopa ponton</em><span>Greek for "the wine-dark sea", as
+Homer terms it in the Odyssey; afterwards paralleled by Mulligan with "the snot-green
+sea"</span></a>. Ah, Dedalus, the Greeks! I must teach you. You must read them in the original. <a
+href="#"><em>Thalatta! Thalatta</em>!<span>Greek for "the sea"</span></a> She is our great sweet
+mother. Come and look.</div>
+
+</p> <p> Stephen stood up and went over to the parapet. Leaning on it he looked down on the water
+and on the mailboat clearing the harbourmouth of Kingstown. </p> <p> &mdash;Our mighty mother! Buck
+Mulligan said. </p> <p> He turned abruptly his grey searching eyes from the sea to Stephen's face.
+</p> <p> &mdash;The aunt thinks <a href="#">you killed your mother<span>Stephen, who recently
+abandoned his previously devout Catholicism, refused to kneel down and pray with his dying mother
+May (a young Joyce had done the same). He is berated both by Mulligan and his conscience, visited by
+dreams and visions of a reproachful ghost</span></a>, he said. That's why she won't let me have
+anything to do with you. </p> <p> &mdash;Someone killed her, Stephen said gloomily. </p> <p> <div
+class="vocab"> &mdash;You could have knelt down, damn it, Kinch, when your dying mother asked you,
+Buck Mulligan said. I'm <a href="#">hyperborean<span>living in or from the far north; from a
+mythical race that lived beyond the north wind</span></a> as much as you. But to think of your
+mother begging you with her last breath to kneel down and pray for her. And you refused. There is
+something sinister in you...</div> </p> <p> He broke off and lathered again lightly his farther
+cheek. A tolerant smile curled his lips. </p> <p><div class="vocab"> &mdash;But a lovely <a
+href="#">mummer<span>a low actor, such as might perform at a parade or carnival. Image from http://www.blogs.targetx.com/wildriverreview/penworldvoices/Mummer1.jpg<br><center><img
+src="images/telemachus/mummer.jpg"
+alt="http://www.blogs.targetx.com/wildriverreview/penworldvoices/Mummer1.jpg"></center></span></a>!
+he murmured to himself. Kinch, the loveliest mummer of them all!</div> </p> <p> He shaved evenly and
+with care, in silence, seriously. </p> <p> Stephen, an elbow rested on the jagged granite, leaned
+his palm against his brow and gazed at the fraying edge of his shiny black coat-sleeve. Pain, that
+was not yet the pain of love, fretted his heart. Silently, in a dream <a href="#">she had come to
+him<span>Stephen's recently deceased mother appears to Stephen in his dreams</span></a> after her
+death, her wasted body within its loose brown graveclothes giving off an odour of wax and rosewood,
+her breath, that had bent upon him, mute, reproachful, a faint odour of wetted ashes. Across the
+threadbare cuffedge he saw the sea hailed as a great sweet mother by the <a
+href="#">wellfed<span>Mulligan has given Stephen some of his old clothing and shoes.</span></a>
+voice beside him. The ring of bay and skyline held a dull green mass of liquid. A bowl of white
+china had stood beside her deathbed holding the green sluggish bile which she had torn up from her
+rotting liver by fits of loud groaning vomiting. </p> <p> Buck Mulligan wiped again his razorblade.
+</p>
+
+<p> &mdash;Ah, poor dogsbody! he said in a kind voice. I must give you a shirt and a few noserags.
+How are the secondhand breeks? </p> <p> &mdash;They fit well enough, Stephen answered. </p> <p> Buck
+Mulligan attacked the hollow beneath his underlip. </p> <p> &mdash;The mockery of it, he said
+contentedly. Secondleg they should be. God knows what poxy bowsy left them off. I have a lovely pair
+with a hair stripe, grey. You'll look spiffing in them. I'm not joking, Kinch. You look damn well
+when you're dressed. </p> <p><div class="historical"> &mdash;Thanks, Stephen said. <a href="#">I
+can't wear them if they are grey.<span>Despite his refusal to pray with his dying mother, Stephen is
+observing the social custom of displaying one's mourning by wearing only black
+clothing</span></a></div> </p> <p> &mdash;He can't wear them, Buck Mulligan told his face in the
+mirror. Etiquette is etiquette. He kills his mother but he can't wear grey trousers.
+
+</p> <p> He folded his razor neatly and with stroking palps of fingers felt the smooth skin. </p>
+<p> Stephen turned his gaze from the sea and to the plump face with its <a href="#">smokeblue mobile
+eyes<span>note this change from "grey searching eyes"; Mulligan is mercurial, willing to change any
+part of himself to make the most gain</span></a>. </p> <p><div class="vocab"><div class="vocab">
+&mdash;That fellow I was with in the <a href="#">Ship<span>a tavern</span></a> last night, said Buck
+Mulligan, <div class="historical">says you have <a href="#">g.p.i.<span>hort for "general paralysis
+of the insane," the old term for schizophrenia; Stephen's descent from prize-winning, hyper-devout
+student to unwashed artist who refused to pray for his dying mother suggests a mental instability to
+people who observe him</span></a> He's up in <a href="#">Dottyville<span>nickname for an insane
+asylum</span></a> with Connolly Norman. General paralysis of the insane!</div></div> </p> <p> He
+swept the mirror a half circle in the air to flash the tidings abroad in sunlight now radiant on the
+sea. His curling shaven lips laughed and the edges of his white glittering teeth. Laughter seized
+all his strong wellknit trunk. </p> <p> &mdash;Look at yourself, he said, you dreadful bard! </p>
+<p>
+
+Stephen bent forward and peered at the mirror held out to him, cleft by a crooked crack. Hair on
+end. As he and others see me. Who chose this face for me? This dogsbody to rid of vermin. It asks me
+too. </p> <p><div class="historical"><div class="vocab"> &mdash;I pinched it out of the <a
+href="#">skivvy's<span>servant. Image from http://www.victorianweb.org/gender/wojtczak/pics/maid51.jpg<br><center><img src="images/telemachus/skivvy.jpg"
+alt="http://www.victorianweb.org/gender/wojtczak/pics/maid51.jpg"></center></span></a> room, Buck
+Mulligan said. It does her all right. The aunt always keeps plainlooking servants for Malachi. Lead
+him not into temptation. And her name is <a href="#">Ursula<span>Ursula is also the name of a saint,
+renowned for her chastity; Mulligan implies that she is chaste because she is so
+plain-looking. Image from http://upload.wikimedia.org/wikipedia/commons/b/b7/Hans_Memling_074.jpg<br><center><img src="images/telemachus/ursula.jpg"
+alt="http://upload.wikimedia.org/wikipedia/commons/b/b7/Hans_Memling_074.jpg"></center></span></a>.<
+/div></div> </p> <p> Laughing again, he brought the mirror away from Stephen's peering eyes. </p>
+<p><div class="historical"><div class="vocab"> &mdash;The rage of <a href="#">Caliban<span>The wild
+native creature, a tragic fool-villain, from Shakespeare's <em>The Tempest</em>. In the prologue to
+<em>The Picture of Dorian Gray</em>, Oscar Wilde wrote, "The nineteenth-century dislike of realism
+is the rage of Caliban seeing his own face in a glass. The nineteenth-century dislike of romanticism
+is the rage of Caliban not seeing his own face in a glass." Mulligan uses the quotation to mock
+Stephen's obvious discomfort with difference between the image of himself that the mirror presents
+and his own idea of himself. Image from http://en.wikipedia.org/wiki/File:Oscar_Wilde_portrait.jpg<br><center><img src="images/telemachus/wilde.jpg"
+alt="http://en.wikipedia.org/wiki/File:Oscar_Wilde_portrait.jpg"></center></span></a> at not seeing
+his face in a mirror, he said. If Wilde were only alive to see you!</div></div> </p> <p> Drawing
+back and pointing, Stephen said with bitterness: </p> <p> <div class="default"><a href="#">&mdash;It
+is a symbol of Irish art<span>Stephen sees Irish art is an attempt to mirror the real, marred by the
+Irish artist's toadying to the British ideal of art. Image from http://www.reconnections.net/mirror_cracked.jpg<br><center><img
+src="images/telemachus/cracked.jpg"
+alt="http://www.reconnections.net/mirror_cracked.jpg"></center></span></a></div>. The cracked
+looking-glass of a servant. </p>
+
+<p> Buck Mulligan suddenly linked his arm in Stephen's and walked with him round the tower, his
+razor and mirror clacking in the pocket where he had thrust them. </p> <p> &mdash;It's not fair to
+tease you like that, Kinch, is it? he said kindly. God knows you have more spirit than any of them.
+</p> <p> Parried again. <a href="#">He fears the lancet of my art as I fear that of
+his<span>Stephen, the unhygienic, is superstitiously fearful of modern medicine (he is also afraid
+of thunder--ironic, given his apostasy-- and dogs). Mulligan fears Stephen's superior wit, and thus
+keeps his jealousy and dislike hidden.</span></a>. The cold steelpen. </p> <p><div
+class="historical"><div class="vocab"> &mdash;Cracked lookingglass of a servant! Tell that to the <a
+href="#">oxy<span>from Oxford College</span></a> chap downstairs and touch him for a guinea. He's
+stinking with money and thinks you're not a gentleman. His old fellow made his <a
+href="#">tin<span>fortune</span></a> by selling jalap to Zulus or some bloody swindle or other. God,
+Kinch, if you and I could only work together we might do something for the island. <a
+href="#">Hellenise<span>make into something appreciative of and producing arts and culture similar
+to that of Golden Age Greece</span></a> it.</div></div> </p> <p><div class="vocab"> <a
+href="#">Cranly's<span>Cranly, like Mulligan, was once (in Portrait of the Artist as a Young Man)
+one of Stephen's best friends, but since fell out of favor after Stephen questions his integrity (a
+pattern with Stephen; like Mulligan, Cranly had counseled Stephen to complete an Easter ritual to
+please his mother even though Stephen is no longer sure he is a believer).</span></a> arm. His
+arm.</div> </p> <p> &mdash;And to think of your having to beg from these swine. <a href="#">I'm the
+only one that knows what you are<span>Mulligan, for all his willingness to do anything for gain, is
+one of the few people who recognize that Stephen is intelligent and not insane or useless. However,
+Stephen cannot reconcile himself with Mulligan's willingness to serve up Ireland to make a dollar,
+and Mulligan knows Stephen sees this side of him and is angered.</span></a>. Why don't you trust me
+more? What have you up your nose against me? Is it Haines? If he makes any noise here I'll bring
+down Seymour and we'll give him a ragging worse than they gave <a href="#">Clive
+Kempthorpe<span>Stephen imagines a schoolboy being humiliated by his fellow classmates, a story he
+has probably heard from Mulligan before.</span></a>.
+
+</p> <p><div class="historical"><div class="vocab"> Young shouts of moneyed voices in Clive
+Kempthorpe's rooms. Palefaces: they hold their ribs with laughter, one clasping another. O, I shall
+expire! Break the news to her gently, Aubrey! I shall die! With slit ribbons of his shirt whipping
+the air he hops and hobbles round the table, with trousers down at heels, chased by Ades of <a
+href="#">Magdalen<span>Magdalen College, part of the University of Oxford</span></a> with the
+tailor's shears. A scared calf's face gilded with marmalade. I don't want to be debagged! Don't you
+play the giddy ox with me!</div></div> </p> <p><div class="historical"><div class="vocab"> Shouts
+from the open window startling evening in the quadrangle. A deaf gardener, aproned, masked with <a
+href="#">Matthew Arnold's<span>A popular Victorian poet; the gardener, though masked with the face
+of culture, is deaf to the violence going on among the nearby students. Image from http://en.wikipedia.org/wiki/File:Matthew_Arnold_-_Project_Gutenberg_eText_16745.jpg<br><center><img
+src="images/telemachus/matthewarnold.jpg"
+alt="http://en.wikipedia.org/wiki/File:Matthew_Arnold_-_Project_Gutenberg_eText_16745.jpg"></center>
+</span></a> face, pushes his mower on the sombre lawn watching narrowly the dancing motes of
+grasshalms.</div></div> </p> <p><div class="vocab"> <a href="#">To ourselves... new paganism...
+omphalos<span>Stephen moves from thoughts of Matthew Arnold's writings to the idea of of the
+omphalos, or navel (Martello Tower is referred to as the omphalos). Disturbed by the image of
+violence, Stephen is moved to forgive Haines. </span></a>.</div> </p> <p> &mdash;Let him stay,
+Stephen said. There's nothing wrong with him except at night. </p> <p> &mdash;Then what is it? Buck
+Mulligan asked impatiently. Cough it up. I'm quite frank with you. What have you against me now?
+</p> <p>
+
+They halted, looking towards the blunt cape of Bray Head that lay on the water like the snout of a
+sleeping whale. Stephen freed his arm quietly. </p> <p> &mdash;Do you wish me to tell you? he asked.
+</p> <p> &mdash;Yes, what is it? Buck Mulligan answered. I don't remember anything. </p> <p> He
+looked in Stephen's face as he spoke. A light wind passed his brow, fanning softly his fair uncombed
+hair and stirring silver points of anxiety in his eyes. </p> <p> Stephen, depressed by his own
+voice, said: </p> <p> &mdash;Do you remember the first day I went to your house after my mother's
+death? </p>
+
+<p> Buck Mulligan frowned quickly and said: </p> <p> &mdash;What? Where? I can't remember anything.
+I remember only ideas and sensations. Why? What happened in the name of God? </p> <p> &mdash;You
+were making tea, Stephen said, and went across the landing to get more hot water. Your mother and
+some visitor came out of the drawingroom. She asked you who was in your room. </p> <p> &mdash;Yes?
+Buck Mulligan said. What did I say? I forget. </p> <p> &mdash;You said, Stephen answered, <em>O,
+it's only Dedalus whose mother is beastly dead.</em> </p>
+
+<p> A flush which made him seem younger and more engaging rose to Buck Mulligan's cheek. </p> <p>
+&mdash;Did I say that? he asked. Well? What harm is that? </p> <p> He shook his constraint from him
+nervously. </p> <p><div class="historical"><div class="vocab"> &mdash;And what is death, he asked,
+your mother's or yours or my own? You saw only your mother die. I see them pop off every day in the
+<a href="#">Mater and Richmond<span>hospitals</span></a> and cut up into tripes in the dissecting
+room. It's a beastly thing</div></div>and nothing else. It simply doesn't matter. You wouldn't kneel
+down to pray for your mother on her deathbed when she asked you. Why? Because you have the cursed
+jesuit strain in you, <a href="#">only it's injected the wrong way<span>Stephen retains the Jesuit
+love of logic and reason without the accompanying religion or affection</span></a>. To me it's all a
+mockery and beastly. <a href="#">Her cerebral lobes are not functioning<span>Mulligan imagines an
+old woman gradually losing her mental abilities, trying to show Stephen that one should humor the
+dying.</span></a>. She calls the doctor sir Peter Teazle and picks buttercups off the quilt. Humour
+her till it's over. You crossed her last wish in death and yet you sulk with me<div
+class="vocab"><div class="historical">because I don't whinge like some <a href="#">hired mute<span>a
+person hired to appear as a mourner at a funeral</span></a> from Lalouette's. Absurd! I suppose I
+did say it. I didn't mean to offend the memory of your mother.</div></div> </p> <p> He had spoken
+himself into boldness. Stephen, shielding the gaping wounds which the words had left in his heart,
+said very coldly: </p> <p> &mdash;I am not thinking of the offence to my mother.
+
+</p> <p> &mdash;Of what then? Buck Mulligan asked. </p> <p> &mdash;Of the offence to me, Stephen
+answered. </p> <p> Buck Mulligan swung round on his heel. </p> <p> &mdash;O, an impossible person!
+he exclaimed. </p> <p> He walked off quickly round the parapet. Stephen stood at his post, gazing
+over the calm sea towards the headland. Sea and headland now grew dim. Pulses were beating in his
+eyes, veiling their sight, and he felt the fever of his cheeks. </p> <p>
+
+A voice within the tower called loudly: </p> <p> &mdash;Are you up there, Mulligan? </p> <p>
+&mdash;I'm coming, Buck Mulligan answered. </p> <p> He turned towards Stephen and said: </p> <p><div
+class="vocab"> &mdash;Look at the sea. What does it care about offences? Chuck <a
+href="#">Loyola<span>founder of the Catholic Jesuit order; here, a symbol of rigid
+belief. Image from http://en.wikipedia.org/wiki/File:Ignatius_Loyola.jpg<br><center><img src="images/telemachus/loyola.jpg"
+alt="http://en.wikipedia.org/wiki/File:Ignatius_Loyola.jpg"></center></span></a>, Kinch, and come on
+down. The <a href="#">Sassenach<span>Scottish vernacular for an Englishman</span></a> wants his
+morning rashers.</div> </p> <p> His head halted again for a moment at the top of the staircase,
+level with the roof: </p>
+
+<p> &mdash;Don't mope over it all day, he said. I'm inconsequent. Give up the moody brooding. </p>
+<p> His head vanished but the drone of his descending voice boomed out of the stairhead: </p> <p>
+<div class="historical"> <a href="#"><em>And no more turn aside and brood<br> Upon love's bitter
+mystery<br> For Fergus rules the brazen cars.</em><span>A Yeats song called "Who Goes With Fergus?"
+(Blamires 5). Mulligan is ironically singing the song Stephen mother asked him to sing for her on
+her deathbed.</span></a> <br></div> </p> <p> Woodshadows floated silently by through the morning
+peace from the stairhead seaward where he gazed. Inshore and farther out the mirror of water
+whitened, spurned by lightshod hurrying feet. White breast of the dim sea. <a href="#">The twining
+stresses, two by two<span>The lines of the song are built of pairs of unstressed-stressed
+syllables.</span></a>. A hand plucking the harpstrings, merging their twining chords. Wavewhite
+wedded words shimmering on the dim tide. </p> <p><div class="vocab"> A cloud began to cover the sun
+slowly, wholly, shadowing the bay in deeper green. It lay beneath him, a bowl of bitter waters. <a
+href="#">Fergus'<span>the Yeats song Mulligan was singing, called "Who Goes With Fergus?" (Blamires
+5)</span></a> song: I sang it alone in the house, holding down the long dark chords. Her door was
+open: she wanted to hear my music. Silent with awe and pity I went to her bedside. She was crying in
+her wretched bed. For those words, Stephen: love's bitter mystery.</div> </p>
+
+<p> <a href="#">Where now?<span>Stephen, who no longer is certain of an afterlife, wonders what has
+become of his dead mother.</span></a> </p> <p> <a href="#">Her secrets<span>Stephen moves from
+images of the trifles May left behind (e.g. dancecards hinting at a life before she was a mother) to
+imagined memories from May's childhood.</span></a>: old featherfans, tasselled dancecards, powdered
+with musk, a gaud of amber beads in her locked drawer. A birdcage hung in the sunny window of her
+house when she was a girl. She heard old Royce sing in the pantomime of Turko the Terrible and
+laughed with others when he sang: </p> <p> <br> <em>I am the boy<br> That can enjoy<br>
+Invisibility.</em> <br> </p> <p> Phantasmal mirth, folded away: muskperfumed. </p> <p> <em>And no
+more turn aside and brood.</em>
+
+</p> <p> Folded away in the memory of nature with her toys. Memories beset his brooding brain. Her
+glass of water from the kitchen tap when she had approached the sacrament. A cored apple, filled
+with brown sugar, roasting for her at the hob on a dark autumn evening. Her shapely fingernails
+reddened by the <a href="#">blood of squashed lice<span>Stephen transitions from imagining May's
+pleasant childhood memories to the hardships she faced as a mother of many children living in
+poverty (Stephen's father, while charismatic and popular, is a drinker and not a consistent
+breadwinner)</span></a> from the children's shirts. </p> <p> In a dream, silently, she had come to
+him, her wasted body within its loose graveclothes giving off an odour of wax and rosewood, her
+breath, bent over him with mute secret words, a faint odour of wetted ashes. </p> <p><div
+class="vocab"> Her glazing eyes, staring out of death, to shake and bend my soul. On me alone. The
+ghostcandle to light her agony. Ghostly light on the tortured face. Her hoarse loud breath rattling
+in horror, while all prayed on their knees. Her eyes on me to strike me down. <a
+href="#"><em>Liliata rutilantium te confessorum turma circumdet: iubilantium te virginum chorus
+excipiat.</em><span>Part of the Catholic liturgy for the dying, spoken at May's deathbed</span></a>
+</div></p> <p> Ghoul! Chewer of corpses! </p> <p> <a href="#">No, mother!<span>Stephen revolts
+against the image of his reproachful mother, whose guilt threatens Stephen's sense of independence
+from the stultifying confines of religion and Irish tradition.</span></a> Let me be and let me live.
+
+</p> <p> &mdash;Kinch ahoy! </p> <p> Buck Mulligan's voice sang from within the tower. It came
+nearer up the staircase, calling again. Stephen, still trembling at his soul's cry, heard warm
+running sunlight and in the air behind him friendly words. </p> <p> &mdash;Dedalus, come down, like
+a good mosey. Breakfast is ready. Haines is apologising for waking us last night. It's all right.
+</p> <p> &mdash;I'm coming, Stephen said, turning. </p> <p> &mdash;Do, for Jesus' sake, Buck
+Mulligan said. For my sake and for all our sakes. </p> <p>
+
+His head disappeared and reappeared. </p> <p> &mdash;I told him <a href="#">your symbol of Irish
+art<span>Mulligan has offered up the "cracked looking glass of a servant" image Stephen created
+earlier to Haines in hope of cadging a few coins for a drink; he is willing to sell off Stephen's
+art (and by extension, all Ireland) to the English for gain, if Stephen won't do it himself, but
+feigns shock when Stephen later facetiously asks Haines if he can make any money off his wit
+</span></a>. He says it's very clever. Touch him for a quid, will you? A guinea, I mean. </p> <p> <a
+href="#">&mdash;I get paid<span>Stephen has regular work teaching at a boy's school, as will be seen
+in Episode 2 (Nestor); Mulligan, a medical student, seems to get his money from his aunt</span></a>
+this morning, Stephen said. </p> <p> &mdash;The school kip? Buck Mulligan said. How much? Four quid?
+Lend us one. </p> <p> &mdash;If you want it, Stephen said. </p> <p> &mdash;Four shining sovereigns,
+Buck Mulligan cried with delight. We'll have a glorious drunk to astonish the druidy druids. Four
+omnipotent sovereigns. </p>
+
+<p> He flung up his hands and tramped down the stone stairs, singing out of tune with a Cockney
+accent: </p> <p> <br> <em>O, won't we have a merry time,<br> Drinking whisky, beer and wine!<br> On
+coronation,<br> Coronation day!<br> O, won't we have a merry time<br> On coronation day!</em> <br>
+</p> <p> Warm sunshine merrying over the sea. The nickel shavingbowl shone, forgotten, on the
+parapet. Why should I bring it down? Or leave it there all day, forgotten friendship? </p> <p><div
+class="historical"><div class="vocab"> He went over to it, held it in his hands awhile, feeling its
+coolness, smelling the clammy slaver of the lather in which the brush was stuck. So I carried the
+boat of incense then at <a href="#">Clongowes<span>A Jesuit boarding school attended by a young
+Stephen; the scene of Stephen's most devout Catholicism.</span></a>. I am another now and yet the
+same. A</div></div>servant too. <a href="#">A server of a servant<span>By serving Mulligan in
+bringing his shaving bowl, since Mulligan is himself a servant to society's demands.</span></a>.
+</p> <p><div class="vocab"> In the gloomy domed livingroom of the tower Buck Mulligan's gowned form
+moved briskly to and fro about the hearth, hiding and revealing its yellow glow. Two shafts of soft
+daylight fell across the flagged floor from the high <a href="#">barbicans<span>castle
+towers. Image from http://img.tfd.com/wn/F1/62079-barbican.gif<br><center><img src="images/telemachus/barbican.gif"
+alt="http://img.tfd.com/wn/F1/62079-barbican.gif"></center></span></a>: and at the meeting of their
+rays a cloud of coalsmoke and fumes of fried grease floated, turning.</div> </p>
+
+<p> &mdash;We'll be choked, Buck Mulligan said. Haines, open that door, will you? </p> <p> Stephen
+laid the shavingbowl on the locker. A tall figure rose from the hammock where it had been sitting,
+went to the doorway and pulled open the inner doors. </p> <p> &mdash;Have you the <a
+href="#">key<span>The tower has only one key, which Stephen has kept so far (with his regular
+teaching job, he has been the one to pay the rent). He senses now the Mulligan will ask for the key,
+effectively usurping his home.</span></a>? a voice asked. </p> <p> &mdash;Dedalus has it, Buck
+Mulligan said. Janey Mack, I'm choked! </p> <p> He howled, without looking up from the fire: </p>
+<p> &mdash;Kinch!
+
+</p> <p> &mdash;It's in the lock, Stephen said, coming forward. </p> <p> The key scraped round
+harshly twice and, when the heavy door had been set ajar, welcome light and bright air entered.
+Haines stood at the doorway, looking out. Stephen haled his upended valise to the table and sat down
+to wait. Buck Mulligan tossed the fry on to the dish beside him. Then he carried the dish and a
+large teapot over to the table, set them down heavily and sighed with relief. </p> <p> &mdash;I'm
+melting, he said, as the candle remarked when... But, hush! Not a word more on that subject! Kinch,
+wake up! Bread, butter, honey. Haines, come in. The grub is ready. Bless us, O Lord, and these thy
+gifts. Where's the sugar? O, jay, there's no milk. </p> <p> Stephen fetched the loaf and the pot of
+honey and the buttercooler from the locker. Buck Mulligan sat down in a sudden pet. </p> <p> <a
+href="#">&mdash;What sort of a kip is this?<span>Mulligan is peeved that the milkwoman has not
+appeared at the appointed time.</span></a> he said. I told her to come after eight. </p> <p>
+
+&mdash;We can drink it black, Stephen said thirstily. There's a lemon in the locker. </p> <p>
+&mdash;O, damn you and your Paris fads! Buck Mulligan said. I want Sandycove milk. </p> <p> Haines
+came in from the doorway and said quietly: </p> <p> &mdash;That woman is coming up with the milk.
+</p> <p> &mdash;The blessings of God on you! Buck Mulligan cried, jumping up from his chair. Sit
+down. Pour out the tea there. The sugar is in the bag. Here, I can't go fumbling at the damned eggs.
+</p> <p> He hacked through the fry on the dish and slapped it out on three plates, saying: </p>
+
+<p><div class="vocab"> <a href="#">&mdash;<em>In nomine Patris et Filii et Spiritus
+Sancti.</em><span>Latin Catholic blessing usually spoken while making the sign of the cross: "In the
+name of the Father, the Son, and the Holy Spirit."</span></a> </div></p> <p> Haines sat down to pour
+out the tea. </p> <p> &mdash;I'm giving you two lumps each, he said. But, I say, Mulligan, you do
+make strong tea, don't you? </p> <p> Buck Mulligan, hewing thick slices from the loaf, said in an
+old woman's wheedling voice: </p> <p><div class="historical"><div class="vocab"> &mdash;When I makes
+tea I makes tea, as old <a href="#">mother Grogan<span>A humorous Irish folkloric figure, possibly
+created by Mulligan, but presented to Haines half-mockingly as valid cultural material for his book.
+Mulligan couches vulgar anecdotes as Irish folklore, subtly mocking Ireland's ability to produce any
+nobel or heroic mythology</span></a> said. And when I makes water I makes water.</div></div> </p>
+<p>
+
+&mdash;By Jove, it is tea, Haines said. </p> <p> Buck Mulligan went on hewing and wheedling: </p>
+<p> &mdash;<em>So I do, Mrs Cahill,</em> says she. <em>Begob, ma'am,</em> says Mrs Cahill, <em>God
+send you don't make them in the one pot.</em> </p> <p> He lunged towards his messmates in turn a
+thick slice of bread, impaled on his knife.
+
+</p> <p> <a href="#">&mdash;That's folk<span>Haines is apparently in Ireland to collect folk tales
+or culture for a book.</span></a>, he said very earnestly, for your book, Haines. Five lines of text
+and ten pages of notes about the folk and the fishgods of Dundrum. Printed by the weird sisters in
+the year of the big wind. </p> <p> He turned to Stephen and asked in a fine puzzled voice, lifting
+his brows: </p> <p><div class="vocab"> &mdash;Can you recall, brother, is mother Grogan's tea and
+water pot spoken of in the <a href="#">Mabinogion<span>The Mabinogion is a collection of old Welsh
+story; the Upanishads are Hindu writings</span></a> or is it in the <a href="#">Upanishads<span>The
+Mabinogion is a collection of old Welsh story; the Upanishads are Hindu writings</span></a>?</div>
+</p> <p> &mdash;I doubt it, said Stephen gravely. </p> <p> &mdash;Do you now? Buck Mulligan said in
+the same tone. Your reasons, pray? </p> <p>
+
+&mdash;I fancy, Stephen said as he ate, it did not exist in or out of the Mabinogion. Mother Grogan
+was, one imagines, a kinswoman of Mary Ann. </p> <p> Buck Mulligan's face smiled with delight. </p>
+<p> &mdash;Charming! he said in a finical sweet voice, showing his white teeth and blinking his eyes
+pleasantly. Do you think she was? Quite charming! </p> <p> Then, suddenly overclouding all his
+features, he growled in a hoarsened rasping voice as he hewed again vigorously at the loaf: </p> <p>
+<br> <em>&mdash;For old Mary Ann<br> She doesn't care a damn.<br> But, hising up her
+petticoats...</em> <br> </p> <p>
+
+He crammed his mouth with fry and munched and droned. </p> <p> The doorway was darkened by an
+entering form. </p> <p> &mdash;The milk, sir! </p> <p> &mdash;Come in, ma'am, Mulligan said. Kinch,
+get the jug. </p> <p> An old woman came forward and stood by Stephen's elbow. </p> <p> &mdash;That's
+a lovely morning, sir, she said. Glory be to God. </p>
+
+<p> &mdash;To whom? Mulligan said, glancing at her. Ah, to be sure! </p> <p> Stephen reached back
+and took the milkjug from the locker. </p> <p><div class="vocab"> &mdash;The islanders, Mulligan
+said to Haines casually, speak frequently of <a href="#">the collector of prepuces.<span>Mulligan
+continues to speak in an elevated anthropological style, mocking the milkwoman's simplicity and
+religion. Collector of prepuces: A reference to the Old Testament God's law that Jewish men be
+circumcised.</span></a> </div></p> <p> &mdash;How much, sir? asked the old woman. </p> <p> &mdash;A
+quart, Stephen said. </p> <p><div class="historical"> <a href="#">He watched her pour<span>Stephen
+sees the uncivilized milkwoman as personifying the Irish spirit, her very oldness and lack of
+breeding suggesting she is a "messenger" or otherwise supernatural</span></a> into the measure and
+thence into the jug rich white milk, not hers. Old shrunken paps. She poured again a measureful and
+a tilly. Old and secret she had entered from a morning world, maybe a messenger. She praised the
+goodness of the milk, pouring it out. Crouching by a patient cow at daybreak in the lush field, a
+witch on her toadstool, her wrinkled fingers quick at the squirting dugs. They lowed about her whom
+they knew, dewsilky cattle. <a href="#">Silk of the kine and poor old woman<span>epithets for
+Ireland</span></a>, names given her in old times. A wandering crone, <a href="#">lowly form of an
+immortal<span>Stephen further fleshes out the idea of Ireland as a poor old woman by imagining her
+as a Goddess in disguise (just as Ireland's culture and beauty is disguised). One of Ireland's
+mythic figures is Kathleen Ni Houlihan, sometimes referred to as the Poor Old Woman (as in the
+Yeats/Gregory play of that name), who calls for the young men of the country to fight for Ireland's
+freedom (Thornton 20).</span></a> serving her conqueror and her gay betrayer, their common
+cuckquean, a messenger from the secret morning. <a href="#">To serve or to upbraid<span>Seeing the
+milkwoman as a mythic Kathleen-Ni-Houlihan figure protecting Ireland, Stephen wonders whether she is
+there to help him in his fight against British tyranny, or to chasten him for failing Ireland.
+Though initially soothed by the the site of a "real" (i.e. not Anglicized) Irish milkwoman, he
+quickly sees in her the faults he sees in all the modern Irish: ignorance of national history (she
+doesn't speak or even recognize Gaelic) and quickness to be impressed with foreign learning and
+cultivation (e.g. Mulligan's status as a medical student).</span></a>, whether he could not tell:
+but scorned to beg her favour. </div> </p> <p> &mdash;It is indeed, ma'am, Buck Mulligan said,
+pouring milk into their cups. </p> <p> &mdash;Taste it, sir, she said. </p> <p> He drank at her
+bidding. </p> <p> &mdash;If we could live on good food like that, he said to her somewhat loudly, we
+wouldn't have the country full of rotten teeth and rotten guts. Living in a bogswamp, eating cheap
+food and the streets paved with dust, horsedung and consumptives' spits. </p> <p> &mdash;Are you a
+medical student, sir? the old woman asked. </p> <p>
+
+&mdash;I am, ma'am, Buck Mulligan answered. </p> <p> &mdash;Look at that now, she said. </p> <p><div
+class="historical"> Stephen listened in scornful silence. She bows her old head to a voice that
+speaks to her loudly, her bonesetter, her medicineman: <a href="#">me she slights<span>Like
+Stephen's picture of most Irish, the milkwoman is impressed with Anglicized learning but wouldn't be
+impressed with the works of an Irish artist (such as Stephen hopes to be), even though artistic
+abilities are closer to Ireland's cultural bequest than scientific ones</span></a>. To the voice
+that will shrive and oil for the grave all there is of her but her woman's unclean loins, of man's
+flesh made not in God's likeness, the serpent's prey. And to the loud voice that now bids her be
+silent with wondering unsteady eyes.</div> </p> <p><div class="historical"> <a href="#">&mdash;Do
+you understand what he says?<span>Haines, the English boarder, is trying out his Gaelic on the
+milkwoman, who not only does not speak irish but cannot even guess that is what he is
+speaking</span></a> Stephen asked her. </div></p> <p> &mdash;Is it French you are talking, sir? the
+old woman said to Haines. </p> <p> Haines spoke to her again a longer speech, confidently. </p>
+
+<p> &mdash;Irish, Buck Mulligan said. Is there Gaelic on you? </p> <p> &mdash;I thought it was
+Irish, she said, by the sound of it. Are you from the west, sir? </p> <p> &mdash;I am an Englishman,
+Haines answered. </p> <p> &mdash;He's English, Buck Mulligan said, and he thinks we ought to speak
+Irish in Ireland. </p> <p> &mdash;Sure we ought to, the old woman said, and I'm ashamed I don't
+speak the language myself. I'm told it's a grand language by them that knows. </p> <p> &mdash;Grand
+is no name for it, said Buck Mulligan. Wonderful entirely. Fill us out some more tea, Kinch. Would
+you like a cup, ma'am?
+
+</p> <p> &mdash;No, thank you, sir, the old woman said, slipping the ring of the milkcan on her
+forearm and about to go. </p> <p> Haines said to her: </p> <p> &mdash;Have you your bill? We had
+better pay her, Mulligan, hadn't we? </p> <p> Stephen filled again the three cups. </p> <p>
+&mdash;Bill, sir? she said, halting. Well, it's seven mornings a pint at twopence is seven twos is a
+shilling and twopence over and these three mornings a quart at fourpence is three quarts is a
+shilling. That's a shilling and one and two is two and two, sir. </p> <p>
+
+Buck Mulligan sighed and, having filled his mouth with a crust thickly buttered on both sides,
+stretched forth his legs and began to search his trouser pockets. </p> <p> &mdash;Pay up and look
+pleasant, Haines said to him, smiling. </p> <p> Stephen filled a third cup, a spoonful of tea
+colouring faintly the thick rich milk. Buck Mulligan brought up a florin, twisted it round in his
+fingers and cried: </p> <p> &mdash;A miracle! </p> <p> He passed it along the table towards the old
+woman, saying: </p> <p> &mdash;Ask nothing more of me, sweet. All I can give you I give. </p>
+
+<p> Stephen laid the coin in her uneager hand. </p> <p> &mdash;We'll owe twopence, he said. </p> <p>
+&mdash;Time enough, sir, she said, taking the coin. Time enough. Good morning, sir. </p> <p> She
+curtseyed and went out, followed by Buck Mulligan's tender chant: </p> <p> <br> <em>&mdash;Heart of
+my heart, were it more,<br> More would be laid at your feet.</em> <br> </p>
+
+<p> He turned to Stephen and said: </p> <p><div class="vocab"> &mdash;Seriously, Dedalus. I'm <a
+href="#">stony<span>Mulligan is "as dry as stone" and needs a drink</span></a>. Hurry out to your
+school kip and bring us back some money. Today the bards must drink and junket. Ireland expects that
+every man this day will do his duty.</div> </p> <p> &mdash;That reminds me, Haines said, rising,
+that I have to visit your national library today. </p> <p> &mdash;Our swim first, Buck Mulligan
+said. </p> <p> He turned to Stephen and asked blandly: </p> <p> &mdash;Is this the day for your
+monthly wash, Kinch?
+
+</p> <p> Then he said to Haines: </p> <p> &mdash;The unclean bard makes a point of washing once a
+month. </p> <p> &mdash;All Ireland is washed by the gulfstream, Stephen said as he let honey trickle
+over a slice of the loaf. </p> <p> Haines from the corner where he was knotting easily a scarf about
+the loose collar of his tennis shirt spoke: </p> <p> &mdash;I intend to make a collection of your
+sayings if you will let me. </p> <p> <div class="vocab"> Speaking to me. They wash and tub and
+scrub. <a href="#">Agenbite of inwit. Conscience. Yet here's a spot.<span>"Agenbite of inwit" is
+Middle English, translating to "prick of remorse". Stephen is referring sarcastically to those who
+bathe more often than he does -- perhaps they are trying to whiten their unclean consciences? "Yet
+here's a spot" refers to Shakespeare's Macbeth, in which the crazed Lady Macbeth (pictured) comes to
+believe that she cannot wash the blood of her murders off her hands. Image from http://upload.wikimedia.org/wikipedia/commons/9/95/Ellen_Terry_at_Lady_Macbeth.jpg<br><center><img
+src="images/telemachus/macbeth.jpg"
+alt="http://upload.wikimedia.org/wikipedia/commons/9/95/Ellen_Terry_at_Lady_Macbeth.jpg"></center></
+span></a> </div></p> <p> &mdash;That one about the cracked lookingglass of a servant being the
+symbol of Irish art is deuced good. </p> <p> Buck Mulligan kicked Stephen's foot under the table and
+said with warmth of tone: </p> <p> &mdash;Wait till you hear him on Hamlet, Haines. </p> <p>
+&mdash;Well, I mean it, Haines said, still speaking to Stephen. I was just thinking of it when that
+poor old creature came in. </p> <p> <a href="#">&mdash;Would I make any money by it?<span>Stephen,
+who is poor but feels that his art is above being traded for money from the English, voices what
+Mulligan is probably thinking (Mulligan sees his abilities -- and by extension, the abilities of the
+Irish -- as fungible goods to be traded for benefits form the English)</span></a> Stephen asked.
+</p>
+
+<p> Haines laughed and, as he took his soft grey hat from the holdfast of the hammock, said: </p>
+<p> &mdash;I don't know, I'm sure. </p> <p> He strolled out to the doorway. Buck Mulligan bent
+across to Stephen and said with coarse vigour: </p> <p> &mdash;You put your hoof in it now. What did
+you say that for? </p> <p> &mdash;Well? Stephen said. The problem is to get money. From whom? From
+the milkwoman or from him. It's a toss up, I think. </p> <p> &mdash;I blow him out about you, Buck
+Mulligan said, and then you come along with your lousy leer and your gloomy jesuit jibes.
+
+</p> <p> &mdash;I see little hope, Stephen said, from her or from him. </p> <p> Buck Mulligan sighed
+tragically and laid his hand on Stephen's arm. </p> <p> &mdash;From me, Kinch, he said. </p> <p> In
+a suddenly changed tone he added: </p> <p> &mdash;To tell you the God's truth I think you're right.
+Damn all else they are good for. Why don't you play them as I do? To hell with them all. Let us get
+out of the kip. </p> <p>
+
+He stood up, gravely ungirdled and disrobed himself of his gown, saying resignedly: </p> <p>
+&mdash;Mulligan is stripped of his garments. </p> <p> He emptied his pockets on to the table. </p>
+<p> &mdash;There's your snotrag, he said. </p> <p> And putting on his stiff collar and rebellious
+tie he spoke to them, chiding them, and to his dangling watchchain. His hands plunged and rummaged
+in his trunk while he called for a clean handkerchief. God, we'll simply have to dress the
+character. I want puce gloves and green boots. Contradiction. Do I contradict myself? Very well
+then, I contradict myself. Mercurial Malachi. A limp black missile flew out of his talking hands.
+</p> <p><div class="historical"><div class="vocab"> &mdash;And there's your <a href="#">Latin
+quarter hat<span>Stephen wears an unfashionable hat, possibly obtained while studying in the student
+area of Paris. Image from http://www.revue-analyses.org/docannexe/image/764/img-3.jpg<br><center><img src="images/telemachus/hat.jpg"
+alt="http://www.revue-analyses.org/docannexe/image/764/img-3.jpg"></center></span></a>, he said.
+</div></div></p>
+
+<p> Stephen picked it up and put it on. Haines called to them from the doorway: </p> <p> &mdash;Are
+you coming, you fellows? </p> <p> &mdash;I'm ready, Buck Mulligan answered, going towards the door.
+Come out, Kinch. You have eaten all we left, I suppose. Resigned he passed out with grave words and
+gait, saying, wellnigh with sorrow: </p> <p> <a href="#">&mdash;And going forth he met
+Butterly.<span>Mulligan plays with sound, mimicking the description of Peter after he betrays Jesus
+three times ("And going forth, he wept bitterly".) Notice how this sets up Mulligan to betray
+Stephen.</span></a> </p> <p><div class="vocab"> Stephen, taking his <a href="#">ashplant<span>a
+walking-stick. Image from http://www.huxley-sticks.co.uk/USERIMAGES/AshMarket(1).jpg<br><center><img src="images/telemachus/ashplant.jpg"
+alt="http://www.huxley-sticks.co.uk/USERIMAGES/AshMarket(1).jpg"></center></span></a> from its
+leaningplace, followed them out and, as they went down the ladder, pulled to the slow iron door and
+locked it. He put the huge key in his inner pocket. </div></p> <p> At the foot of the ladder Buck
+Mulligan asked:
+
+</p> <p> &mdash;Did you bring the key? </p> <p> &mdash;I have it, Stephen said, preceding them. </p>
+<p> He walked on. Behind him he heard Buck Mulligan club with his heavy bathtowel the leader shoots
+of ferns or grasses. </p> <p> &mdash;Down, sir! How dare you, sir! </p> <p> Haines asked: </p> <p>
+
+&mdash;Do you pay rent for this tower? </p> <p> &mdash;Twelve quid, Buck Mulligan said. </p> <p><div
+class="historical"> <a href="#">&mdash;To the secretary of state for war<span>The Martello tower
+shared by Stephen, Mulligan, and Haines was originally a defensive structure -- thus the strange
+landlord.</span></a>, Stephen added over his shoulder. </div></p> <p> They halted while Haines
+surveyed the tower and said at last: </p> <p> &mdash;Rather bleak in wintertime, I should say.
+Martello you call it? </p> <p><div class="historical"><div class="vocab"> <a href="#">&mdash;Billy
+Pitt<span>Many towers like Stephen's were built around the coasts of Great britain during the
+Napoleonic wars.</span></a> had them built, Buck Mulligan said, when the French were on the sea. But
+ours is the <em>omphalos</em>. </div></div> </p> <p> &mdash;What is your idea of Hamlet? Haines
+asked Stephen. </p> <p><div class="historical"><div class="vocab"> &mdash;No, no, Buck Mulligan
+shouted in pain. I'm not equal to <a href="#">Thomas Aquinas<span>Doctor of the Catholic Church and
+subtle logician. Image from http://en.wikipedia.org/wiki/File:St-thomas-aquinas.jpg<br><center><img src="images/telemachus/aquinas.jpg"
+alt="http://en.wikipedia.org/wiki/File:St-thomas-aquinas.jpg"></center></span></a> and the fiftyfive
+reasons he has made out to prop it up. Wait till I have a few pints in me first.</div> </div></p>
+<p> He turned to Stephen, saying, as he pulled down neatly the peaks of his primrose waistcoat: </p>
+<p> &mdash;You couldn't manage it under three pints, Kinch, could you? </p> <p> &mdash;It has waited
+so long, Stephen said listlessly, it can wait longer. </p> <p>
+
+&mdash;You pique my curiosity, Haines said amiably. Is it some paradox? </p> <p> &mdash;Pooh! Buck
+Mulligan said. We have grown out of Wilde and paradoxes. It's quite simple. He proves by algebra
+that Hamlet's grandson is Shakespeare's grandfather and that he himself is the ghost of his own
+father. </p> <p> &mdash;What? Haines said, beginning to point at Stephen. He himself? </p> <p> Buck
+Mulligan slung his towel stolewise round his neck and, bending in loose laughter, said to Stephen's
+ear: </p> <p><div class="vocab"> <a href="#">&mdash;O, shade of Kinch the elder! Japhet in search of
+a father!<span>Mulligan sarcastically makes a muddle of Stephen's Hamlet theory, making Haines
+confused as to whether Hamlet or Stephen is referred to as the ghost of his own father. Mulligan
+laughs, picturing the differences between Stephen's charismatic father and Stephen; Japhet, one of
+Noah's sons, reinforces the father-son relationship motif.</span></a></div> </p> <p> &mdash;We're
+always tired in the morning, Stephen said to Haines. And it is rather long to tell. </p>
+
+<p> Buck Mulligan, walking forward again, raised his hands. </p> <p> &mdash;The sacred pint alone
+can unbind the tongue of Dedalus, he said. </p> <p><div class="vocab"> &mdash;I mean to say, Haines
+explained to Stephen as they followed, this tower and these cliffs here remind me somehow of <a
+href="#">Elsinore<span>The name of the Danish castle where Hamlet is set</span></a>. <em>That
+beetles o'er his base into the sea,</em> isn't it?</idv> </p> <p> Buck Mulligan turned suddenly for
+an instant towards Stephen but did not speak. In the bright silent instant Stephen saw his own image
+in cheap dusty mourning between their gay attires. </p> <p> &mdash;It's a wonderful tale, Haines
+said, bringing them to halt again.
+
+</p> <p><div class="historical"><div class="vocab"> Eyes, pale as the sea the wind had freshened,
+paler, firm and prudent. <a href="#">The seas' ruler<span>Haines is English, and at that time Great
+Britain's impressive fleet had virtual sovereignty of the seas</span></a>, he gazed southward over
+the bay, empty save for the smokeplume of the mailboat vague on the bright skyline and a sail
+tacking by the <a href="#">Muglins<span>dangerous rocks in the waters</span></a>. </div></div></p>
+<p> &mdash;I read a theological interpretation of it somewhere, he said bemused. <a href="#">The
+Father and the Son<span>An interpretation of Hamlet in which Hamlet and the murdered king correspond
+to Jesus and the Father image of God; both Hamlet and God's Father/Son relationship are paralleled
+in this book</span></a> idea. The Son striving to be atoned with the Father. </p> <p> Buck Mulligan
+at once put on a <a href="#">blithe broadly smiling<span>Mulligan hints at his bad side by mocking a
+serious theme of the book (the father/Son relationship will be paralleled in
+Bloom/Stephen)</span></a> face. He looked at them, his wellshaped mouth open happily, his eyes, from
+which he had suddenly withdrawn all shrewd sense, blinking with mad gaiety. He moved a doll's head
+to and fro, the brims of his Panama hat quivering, and began to chant in a quiet happy foolish
+voice: </p> <p> <br> <em>&mdash;I'm the queerest young fellow that ever you heard.</em><br> <a
+href="#"><em>My mother's a jew, my father's a bird.</em><span>Jesus's mother Mary; the dove form of
+the Holy Spirit</span></a><br> <em>With </em><a href="#"><em>Joseph the joiner</em><span>Mary's
+husband Joseph, a carpenter</span></a><em> I cannot agree.<br> So here's to disciples and
+Calvary.</em> <br> </p> <p> He held up a forefinger of warning.
+
+</p> <p> <br><div class="default"> <em>&mdash;If anyone thinks that I amn't divine<br> He'll get no
+</em><a href="#"><em>free drinks</em><span>the miracle at Cana, when Jesus turned water into wine
+for wedding guests. Image from http://www.atheavensgate.com/The%20Miracles%20of%20Christ/02-The%20First%20Miracle%20in%20Cana.
+jpg<br><center><img src="images/telemachus/cana.jpg"
+alt="http://www.atheavensgate.com/The%20Miracles%20of%20Christ/02-The%20First%20Miracle%20in%20Cana.
+jpg"></center></span></a><em> when I'm making the wine<br> But have to drink water and wish it were
+plain<br> That I make when the wine becomes water again</em>.</div> <br> </p> <p> He tugged swiftly
+at Stephen's ashplant in farewell and, running forward to a brow of the cliff, fluttered his hands
+at his sides like fins or wings of one about to rise in the air, and chanted: </p> <p> <br><div
+class="vocab"> <em>&mdash;Goodbye, now, goodbye! Write down all I said<br> And tell Tom, Dick and
+Harry I rose from the dead.<br> What's bred in the bone cannot fail me to fly<br> And </em><a
+href="#"><em>Olivet's</em><span>The Mount of Olives, at the foot of which is the Garden of
+Gethsemane, where Jesus spent the night of his betrayal</span></a><em> breezy... Goodbye, now,
+goodbye!</em></div> <br> </p> <p><div class="vocab"> He capered before them down towards the
+fortyfoot hole, fluttering his winglike hands, leaping nimbly, <a href="#">Mercury's<span>The
+description of Mulligan's hat as Mercury's points both to the fleetness of his capering, but also to
+his willingness to behave mercurially (i.e. changefully) in order to remain in control of
+situations. Image from http://en.wikipedia.org/wiki/File:Mercurybyhendrickgoltzius.jpeg<br><center><img src="images/telemachus/mercury.jpg"
+alt="http://en.wikipedia.org/wiki/File:Mercurybyhendrickgoltzius.jpeg"></center></span></a> hat
+quivering in the fresh wind that bore back to them his brief birdsweet cries.</div> </p>
+
+<p> Haines, who had been laughing guardedly, walked on beside Stephen and said: </p> <p> &mdash;We
+oughtn't to laugh, I suppose. He's rather blasphemous. I'm not a believer myself, that is to say.
+Still his gaiety takes the harm out of it somehow, doesn't it? What did he call it? Joseph the
+Joiner? </p> <p> &mdash;The ballad of joking Jesus, Stephen answered. </p> <p> &mdash;O, Haines
+said, you have heard it before? </p> <p> &mdash;Three times a day, after meals, Stephen said drily.
+</p> <p> &mdash;You're not a believer, are you? Haines asked. I mean, a believer in the narrow sense
+of the word. Creation from nothing and miracles and a personal God.
+
+</p> <p> &mdash;There's only one sense of the word, it seems to me, Stephen said. </p> <p> Haines
+stopped to take out <a href="#">a smooth silver case<span>a little metaphor: Haines, the Englishman,
+offers Stephen an image of Ireland (the emerald) as a decoration in England's pocket</span></a> in
+which twinkled a green stone. He sprang it open with his thumb and offered it. </p> <p> &mdash;Thank
+you, Stephen said, taking a cigarette. </p> <p> Haines helped himself and snapped the case to. He
+put it back in his sidepocket and took from his waistcoatpocket a nickel tinderbox, sprang it open
+too, and, having lit his cigarette, held the flaming spunk towards Stephen in the shell of his
+hands. </p> <p> &mdash;Yes, of course, he said, as they went on again. Either you believe or you
+don't, isn't it? Personally I couldn't stomach that idea of a personal God. You don't stand for
+that, I suppose? </p> <p>
+
+<a href="#">&mdash;You behold in me<span>Stephen's displeasure may be caused both by memory of his
+refusal to pray with his dying mother, and by the failure of his free-willed self to be as
+successful as those who serve other masters</span></a>, Stephen said with grim displeasure, a
+horrible example of free thought. </p> <p><div class="vocab"> He walked on, waiting to be spoken to,
+trailing his ashplant by his side. Its <a href="#">ferrule<span>a protective cap around the end of
+Stephen's walking stick</span></a> followed lightly on the path, squealing at his heels. My <a
+href="#">familiar<span>a witch's animal companion</span></a>, after me, calling, Steeeeeeeeeeeephen!
+A wavering line along the path.</div><a href="#">They will walk on it tonight<span>Haines and
+Mulligan on their way home</span></a>, coming here in the dark. He wants that key. It is mine. I
+paid the rent. Now I eat his salt bread. Give him the <a href ="#">key<span>The tower has only one
+key, which Stephen has kept so far (with his regular teaching job, he has been the one to pay the
+rent). He senses now the Mulligan will ask for the key, effectively usurping his home. </span></a>
+too. All. He will ask for it. That was in his eyes. </p> <p> &mdash;After all, Haines began... </p>
+<p> Stephen turned and saw that the cold gaze which had measured him was not all unkind. </p> <p>
+&mdash;After all, I should think you are able to free yourself. You are your own master, it seems to
+me. </p> <p><div class="historical"> &mdash;I am a servant of <a href="#">two masters<span>the
+English master is England's pernicious influence on Ireland ("The imperial British state"); the
+Italian master is the Catholic Church and Pope, jealous of modern independent thought, demanding
+"kneel down before me"</span></a>, Stephen said, an English and an Italian. </div></p>
+
+<p> &mdash;Italian? Haines said. </p> <p> A crazy queen, old and jealous. Kneel down before me. </p>
+<p> &mdash;And a third, Stephen said, there is who wants me for odd jobs. </p> <p> &mdash;Italian?
+Haines said again. What do you mean? </p> <p> &mdash;The imperial British state, Stephen answered,
+his colour rising, and the holy Roman catholic and apostolic church. </p> <p> Haines detached from
+his underlip some fibres of tobacco before he spoke.
+
+</p> <p><div class="historical"> &mdash;I can quite understand that, he said calmly. An Irishman
+must think like that, I daresay. We feel in England that we have treated you rather <a
+href="#">unfairly<span>Haines believes that English have historically treated the Irish wrongly, but
+is blind to the current effect Britain has on Ireland</span></a>. It seems history is to blame.
+</div></p> <p><div class="vocab"> <a href="#">The proud potent titles<span>Stephen begins musing on
+growth and power of the Catholic church. The heretics named all challenged "the status of the Son
+and his relationship to the Father" (Blamires 8), underlining the motif of father-son relationships
+that parallels the Odyssean father-son relationship between Stephen and Bloom later in the
+book.</span></a> clanged over Stephen's memory the triumph of their brazen bells: <a href="#"><em>et
+unam sanctam catholicam et apostolicam ecclesiam:</em><span>"The one, holy, universal and apostolic
+Church"</span></a> the slow growth and change of rite and dogma like his own rare thoughts, a
+chemistry of stars. Symbol of the apostles in the mass for pope Marcellus, the voices blended,
+singing alone loud in affirmation: and behind their chant the vigilant angel of the church militant
+disarmed and menaced her heresiarchs. A horde of heresies fleeing with mitres awry: Photius and the
+brood of mockers of whom <a href="#">Mulligan was one<span>Photius, in addition to being a heretic,
+usurped the Patriarchate of Constantinople (like Mulligan, as we shall see, an usurper; Blamires
+8).</span></a>, and Arius, warring his life long upon the consubstantiality of the Son with the
+Father, and Valentine, spurning Christ's <a href="#">terrene<span>earthly</span></a> body, and the
+subtle African heresiarch Sabellius who held that the Father was Himself His own Son. Words Mulligan
+had spoken a moment since in mockery to the stranger. Idle mockery. <a href="#">The void
+awaits<span>Hell awaits all who try to bend religion's truth with strange logic.</span></a> surely
+all them that weave the wind: a menace, a disarming and a worsting from those embattled angels of
+the church, <a href="#">Michael's<span>an archangel often depicted as militant. Image from http://www.wilsonsalmanac.com/images/michael_by_raphael.jpg<br><center><img
+src="images/telemachus/michael.jpg"
+alt="http://www.wilsonsalmanac.com/images/michael_by_raphael.jpg"></center></span></a> host, who
+defend her ever in the hour of conflict with their lances and their shields.</div> </p> <p> <div
+class="vocab"><a href="#">Hear, hear!<span>coming out of his revery, Stephen imagines fake applause
+(Stephen, as a would-be poet, is ever aware that despite the intelligence that lets him have such
+interior monologues, he has produced no great work to share with others)</span></a> Prolonged
+applause. <a href="#"><em>Zut! Nom de Dieu!</em><span>mild oaths ("Well, shoot! Name of God!") of
+amazement</span></a></div> </p> <p> &mdash;Of course I'm a Britisher, Haines's voice said, and I
+feel as one. I don't want to see my country fall into the hands of German jews either. That's our
+national problem, I'm afraid, just now.
+
+</p> <p> <a href="#">Two men<span>Two men are watching the water, looking for the body of a man who
+drowned about nine days ago.</span></a> stood at the verge of the cliff, watching: businessman,
+boatman. </p> <p><div class="historical"><div class="vocab"> &mdash;She's making for <a
+href="#">Bullock harbour<span>a harbor southeast of Dublin</span></a>. </div></div></p> <p> The
+boatman nodded towards the north of the bay with some disdain. </p> <p><div class="vocab">
+&mdash;There's five <a href="#">fathoms<span>unit of nautical measurement</span></a> out there, he
+said. <a href="#">It'll be swept up<span>a drowned man's body</span></a> that way when the tide
+comes in about one. It's nine days today. </div></p> <p> The man that was drowned. A sail veering
+about the blank bay waiting for a swollen bundle to bob up, roll over to the sun a puffy face,
+saltwhite. Here I am. </p> <p>
+
+They followed the winding path down to the creek. Buck Mulligan stood on a stone, in shirtsleeves,
+his unclipped tie rippling over his shoulder. A young man clinging to a spur of rock near him, moved
+slowly frogwise his green legs in the deep jelly of the water. </p> <p> &mdash;Is the brother with
+you, Malachi? </p> <p><div class="historical"> &mdash;Down in <a href="#">Westmeath<span>an area in
+the middle of Ireland</span></a>. With the <a href="#">Bannons<span>A family surname</span></a>.
+</div></p> <p> &mdash;Still there? I got a card from Bannon. Says he found a <a href="#">sweet young
+thing<span>Bannon's female find happens to be the young Milly Bloom, daughter of not-yet-introduced
+protagonist Leopold Bloom, who is working as a photographer's assistant (and who, like her mother,
+might be having affairs at a young age)</span></a> down there. Photo girl he calls her. </p> <p>
+&mdash;Snapshot, eh? Brief exposure. </p> <p> Buck Mulligan sat down to unlace his boots. An elderly
+man shot up near the spur of rock a blowing red face. He scrambled up by the stones, water
+glistening on his pate and on its garland of grey hair, water rilling over his chest and paunch and
+spilling jets out of his black sagging loincloth. </p>
+
+<p> Buck Mulligan made way for him to scramble past and, glancing at Haines and Stephen, crossed
+himself piously with his thumbnail at brow and lips and breastbone. </p> <p> <a
+href="#">&mdash;Seymour's<span>a friend of Mulligan's, mentioned earlier when Mulligan offered to
+rag Haines for bothering Stephen</span></a> back in town, the young man said, grasping again his
+spur of rock. Chucked medicine and going in for the army. </p> <p> &mdash;Ah, go to God! Buck
+Mulligan said. </p> <p> &mdash;Going over next week to stew. You know that red Carlisle girl, Lily?
+</p> <p> &mdash;Yes. </p> <p><div class="vocab"> &mdash;Spooning with him last night on the pier.
+The father is <a href="#">rotto<span>rich</span></a> with money. </div> </p> <p><div class="vocab">
+<a href="#">&mdash;Is she up the pole<span>pregnant</span></a>?</div> </p> <p> &mdash;Better ask
+Seymour that. </p> <p> &mdash;Seymour a bleeding officer! Buck Mulligan said. </p> <p> He nodded to
+himself as he drew off his trousers and stood up, saying tritely: </p> <p> &mdash;Redheaded women
+buck like goats. </p> <p>
+
+He broke off in alarm, feeling his side under his flapping shirt. </p> <p><div
+class="historical"><div class="vocab"> &mdash;My twelfth rib is gone, he cried. I'm the <a
+href="#"><em>Uebermensch.</em><span>Nietzsche's (pictured) "Superman" or ideal for all
+humanity. Image from http://www.informationarchitects.jp/wp-content/uploads/2006/11/Nietzsche_1882.jpg<br><center><img src="images/telemachus/uber.jpg"
+alt="http://www.informationarchitects.jp/wp-content/uploads/2006/11/Nietzsche_1882.jpg"></center></
+span></a> Toothless Kinch and I, the supermen. </div></div></p> <p> He struggled out of his shirt
+and flung it behind him to where his clothes lay. </p> <p> &mdash;Are you going in here, Malachi?
+</p> <p> &mdash;Yes. Make room in the bed. </p>
+
+<p> The young man shoved himself backward through the water and reached the middle of the creek in
+two long clean strokes. Haines sat down on a stone, smoking. </p> <p> &mdash;Are you not coming in?
+Buck Mulligan asked. </p> <p> &mdash;Later on, Haines said. Not on my breakfast. </p> <p> Stephen
+turned away. </p> <p> &mdash;I'm going, Mulligan, he said. </p> <p> &mdash;Give us that <a
+href="#">key<span>Mulligan succeeds in getting the key from Stephen, effectively shutting him out of
+his home.</span></a>, Kinch, Buck Mulligan said, to keep my chemise flat.
+
+</p> <p> Stephen handed him the key. Buck Mulligan laid it across his heaped clothes. </p> <p>
+&mdash;And twopence, he said, for a pint. Throw it there. </p> <p> Stephen threw two pennies on the
+soft heap. Dressing, undressing. Buck Mulligan erect, with joined hands before him, said solemnly:
+</p> <p><div class="historical"><div class="vocab"> &mdash;He who stealeth from the poor lendeth to
+the Lord. Thus spake <a href="#">Zarathustra<span>an ancient religious poet (pictured); <em>Thus
+Spake Zarathustra</em> is the name of a late-19th-century book by Nietzsche. Image from http://www.wadias.in/site/arzan/blog/zarathustra.jpg<br><center><img
+src="images/telemachus/zarathustra.jpg" alt="http://www.wadias.in/site/arzan/blog/zarathustra.jpg">
+http://msnbcmedia3.msn.com/j/msnbc/Components/Photo_StoryLevel/080623/080623-science-odysseus-hmed-
+2p.hmedium.jpg"></center></span></a>. </div></div></p> <p> His plump body plunged. </p> <p>
+
+&mdash;We'll see you again, Haines said, turning as Stephen walked up the path and smiling at <a
+href="#">wild Irish<span>Stephen imagines that Haines condescends to him because he is an Irishman
+-- more of a curious freak than a genius. The text, though, shows nothing of Haines to suggest he is
+not sincere in his offer of friendship.</span></a>. </p> <p> <a href="#">Horn of a bull, hoof of a
+horse, smile of a Saxon<span>Stephen makes his own version of saying for what things a person should
+never trust.</span></a>. </p> <p><div class="vocab"> &mdash;The <a href="#">Ship<span>a
+tavern</span></a>, Buck Mulligan cried. Half twelve. </div></p> <p> &mdash;Good, Stephen said. </p>
+<p> He walked along the upwardcurving path. </p> <p> <br><div class="vocab"> <a href="#"><em>Liliata
+rutilantium.<br> Turma circumdet.<br> Iubilantium te virginum.</em><span>Part of the Catholic
+liturgy for the dying, spoken at May's deathbed </span></a></div> <br> </p>
+
+<p><div class="bio"> The priest's grey nimbus in a niche where he dressed discreetly. <a href="#">I
+will not sleep here tonight<span>Stephen has about had it with Mulligan, and does not feel he could
+return to the tower to sleep (there is also the problem of no longer having the key); "home", now
+referring to the place his immediate family lives, is also not an option -- the family has broken up
+after May's death, and there is possibly some anger there over Stephen's refual to pray for
+her.</span></a>. Home also I cannot go.</div> </p> <p> <a href="#">A voice<span>Mulligan's
+("sweettoned": Mulligan is able to be "golden-mouthed" or honey-tongued when he wishes)</span></a>,
+sweettoned and sustained, called to him from the sea. Turning the curve he waved his hand. It called
+again. A sleek brown head, a seal's, far out on the water, round. </p> <p> <div class="vocab"><a
+href="#">Usurper<span>Mulligan, who Stephen senses will betray his friendship soon as he has done
+subtly for a long time (by trying to get Stephen to sell out as he himself has done). Ulysses
+parallels the problem of Penelope's suitors in the Odyssey with a series of similarly
+morally-suspect usurpers: The British (usurping Ireland's culture), various men who have dubious
+relationships with Leopold Bloom's wife Molly (notably, and Hugh Boylan) and Mulligan (who subtly
+tries to break Stephen's determination to be a free-willed artist, and also ultimately usurps his
+home). See Ellmann's biography of Joyce for parallels to Joyce's exit from the Martello
+tower. Image from http://msnbcmedia3.msn.com/j/msnbc/Components/Photo_StoryLevel/080623/080623-science-odysseus-
+hmed-2p.hmedium.jpg<br><center><img src="images/telemachus/suitors.jpg"
+alt="http://msnbcmedia3.msn.com/j/msnbc/Components/Photo_StoryLevel/080623/080623-science-odysseus-
+hmed-2p.hmedium.jpg"></center></span></a>.</div> </p>
+
+</div>
+
+
+<!--#include virtual="includes/footer.shtml" -->
+
+</div>
+
+
+
+
+</body> </html>

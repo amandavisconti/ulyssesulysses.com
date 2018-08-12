@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head> 
+  <title>www.UlyssesUlysses.com</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <link href="css/regular.css" rel="stylesheet" type="text/css" />
+  <link rel="Shortcut Icon" href="http://www.ulyssesulysses.com/images/favicon.ico" />
+</head> 
+<body> 
+
+<!--#include virtual="includes/topper.shtml" -->
+
+<div id="container">
+
+<div id="chapter">
+<a href="episode1.shtml">
+<img src="images/episode1.jpg" width="699" height="33"
+border=0 
+alt="Link to episode1.shtml"
+style="opacity:1.0;filter:alpha(opacity=100)"
+onmouseover="this.style.opacity=0.4;this.filters.alpha.opacity=40"
+onmouseout="this.style.opacity=1.0;this.filters.alpha.opacity=100"></a>
+</div>
+
+	<div id="prede">
+	
+<div id="pre">
+<a href="preepisode1.shtml"><img src="images/briefing.jpg" width="213" height="41"
+border=0 
+alt="Link to preepisode1.shtml"
+style="opacity:1.0;filter:alpha(opacity=100)"
+onmouseover="this.style.opacity=0.4;this.filters.alpha.opacity=40"
+onmouseout="this.style.opacity=1.0;this.filters.alpha.opacity=100"></a>
+</div>
+
+
+<div id="post">
+<a href="postepisode1.shtml"><img src="images/debriefing.jpg" width="263" height="33"
+border=0 
+alt="Link to postepisode1.shtml"
+style="opacity:1.0;filter:alpha(opacity=100)"
+onmouseover="this.style.opacity=0.4;this.filters.alpha.opacity=40"
+onmouseout="this.style.opacity=1.0;this.filters.alpha.opacity=100"></a>
+</div>
+
+
+	</div>
+
+<div id="underline1">
+</div>
+
+<div id="bodycontent">
+<h1>Episode 1: Debriefing</h1>
+<p>
+"Telemachus" is not a very difficult episode to comprehend -- unlike later
+episodes, it is written in a fairly normal style, with only a few lapses
+into stream-of-consciousness.
+</p>
+<p>
+The main thing to understand from this episode is why Stephen is driven to label
+Mulligan an "usurper". Even if Mulligan seems likable to <em>you</em>, it's 
+important to understand why Stephen feels their friendship is at an end.
+</p>
+<p>
+If this isn't clear to you, consider the following:
+<ul>
+<li>The crossed razor and mirror which Mulligan offers up as a sacrifice at the
+beginning of his mock mass are later identified by Stephen as the symbol of
+Irish art (and Stephen is an Irish artist).</li>
+<li>Mulligan acts offended when Stephen facetiously asks Haines if he can make
+any money off his sayings, but had previously hypocritically offered up Stephen's
+witticism to Haines himself, after counseling Stephen to tell Haines and then
+"touch him" for some money.</li>
+<li>Mulligan has introduced an Englishman into their home (albeit a nice one),
+and then asks for the key from Stephen -- though it is Stephen who pays the rent.
+</li>
+</ul>
+</p>
+<p>
+<h1>Connections to the Next Episode</h1>
+The next two episodes also follow Stephen's thoughts; these will help you get a better
+grasp on his attitude toward Mulligan. Episode 2 ("Nestor") sees 
+Stephen at his "school kip", teaching boys who do not respect him
+and picking up his wages from his British master.
+</p>
+
+</div>
+
+<!--#include virtual="includes/footer.shtml" -->
+</div>
+	
+</body> 
+</html>

@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head> 
+  <title>www.UlyssesUlysses.com</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <link href="css/regular.css" rel="stylesheet" type="text/css" />
+  <link rel="Shortcut Icon" href="http://www.ulyssesulysses.com/images/favicon.ico" />
+</head> 
+<body> 
+
+<!--#include virtual="includes/topper.shtml" -->
+
+<div id="container">
+<div id="chapter">
+<a href="episode2.shtml">
+<img src="images/episode2.jpg" width="699" height="33"
+border=0 
+alt="Link to episode2.shtml"
+style="opacity:1.0;filter:alpha(opacity=100)"
+onmouseover="this.style.opacity=0.4;this.filters.alpha.opacity=40"
+onmouseout="this.style.opacity=1.0;this.filters.alpha.opacity=100"></a>
+</div>
+
+	<div id="prede">
+	
+<div id="pre">
+<a href="preepisode2.shtml"><img src="images/briefing.jpg" width="213" height="41"
+border=0 
+alt="Link to preepisode2.shtml"
+style="opacity:1.0;filter:alpha(opacity=100)"
+onmouseover="this.style.opacity=0.4;this.filters.alpha.opacity=40"
+onmouseout="this.style.opacity=1.0;this.filters.alpha.opacity=100"></a>
+</div>
+
+<div id="post">
+<a href="postepisode2.shtml"><img src="images/debriefing.jpg" width="263" height="33"
+border=0 
+alt="Link to postepisode2.shtml"
+style="opacity:1.0;filter:alpha(opacity=100)"
+onmouseover="this.style.opacity=0.4;this.filters.alpha.opacity=40"
+onmouseout="this.style.opacity=1.0;this.filters.alpha.opacity=100"></a>
+</div>
+
+
+	</div>
+
+<div id="underline1">
+</div>
+
+<div id="bodycontent">
+<p>
+<h1>Episode 2 Debriefing</h1>
+The "Nestor" episode adds historical examples of imperialism to back up 
+Stephen's paranoia over British influence on the Irish.
+</p>
+<p>
+<h1>Connections to the Next Episode</h1>
+Like the first episode, "Nestor" is not terribly difficult to understand,
+though Stephen does slip into some confusing stream-of-consciousness now and
+then. He does this for most of the next episode, "Proteus", making it one of the
+novel's more difficult reads; don't be discouraged if it doesn't make sense at first, but read
+the pre-episode briefing and try to get a sense toward where the fragments of thought
+making up the different paragraphs are pointing.
+</p>
+
+
+
+</div>
+
+<!--#include virtual="includes/footer.shtml" -->
+</div>
+
+
+	
+</body> 
+</html>

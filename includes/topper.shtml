@@ -1,0 +1,103 @@
+<div id="topper">
+<span class="Joyce1"><img src="images/Joyce1.jpg" width="80" height="80" alt="" /></span>
+<span class="logo"><img src="images/logo.jpg" alt="" /></span>
+<div id="menuh-container">
+<div id="menuh">
+	
+	<ul>	
+		<li><a href="http://www.ulyssesulysses.com" >Home</a>
+	</ul>
+
+	<ul>	
+	<li>
+	<a href="http://www.ulyssesulysses.com/about.shtml" class="top_parent">The Site +</a>
+		<ul>
+			<li><a href="http://www.ulyssesulysses.com/howtouse.shtml">How to Use</a></li>
+			</li>
+			<li><a href="http://www.ulyssesulysses.com/challenges.shtml">What's so hard?</a></li>
+			</li>
+			<li><a href="http://www.ulyssesulysses.com/rewards.shtml">Why read <em>Ulysses</em>?</a></li>
+			</li>
+			<li><a href="http://www.ulyssesulysses.com/citations.shtml">Citations</a></li>
+			</li>
+			<div class="grey">
+			<li><a href="#">Contact</a></li>
+			</li></div>
+			<li><a href="http://www.ulyssesulysses.com/comments.shtml">Comments</a></li>
+			</li>
+		</ul>
+	</li>
+	</ul>
+	
+	<ul>	
+	<li>
+	<a href="http://www.ulyssesulysses.com/thebook.shtml" class="top_parent">Read the Book +</a>
+		<ul>
+			<li><a href="http://www.ulyssesulysses.com/preepisode1.shtml">Episode 1</a></li>
+			</li>
+			<li><a href="http://www.ulyssesulysses.com/preepisode2.shtml">Episode 2</a></li>
+			</li>
+			<div class="grey">
+			<li><a href="#">Episode 3</a></li>
+			</li>
+			<li><a href="#">Episode 4</a></li>
+			</li>
+			<li><a href="#">Episode 5</a></li>
+			</li>
+			<li><a href="#">Episode 6</a></li>
+			</li>
+			<li><a href="#">Episode 7</a></li>
+			</li>
+			<li><a href="#">Episode 8</a></li>
+			</li>
+			<li><a href="#">Episode 9</a></li>
+			</li>
+			<li><a href="#">Episode 10</a></li>
+			</li>
+			<li><a href="#">Episode 11</a></li>
+			</li>
+			<li><a href="#">Episode 12</a></li>
+			</li>
+			<li><a href="#">Episode 13</a></li>
+			</li>
+			<li><a href="#">Episode 14</a></li>
+			</li>
+			<li><a href="#">Episode 15</a></li>
+			</li>
+			<li><a href="#">Episode 16</a></li>
+			</li>
+			<li><a href="#">Episode 17</a></li>
+			</li>
+			<li><a href="#">Episode 18</a></li>
+			</li>
+			</div>
+		</ul>
+	</li>
+	</ul>
+
+	<ul>	
+	<li>
+	<a href="http://www.ulyssesulysses.com/resources.shtml" class="top_parent">Resources +</a>
+		<ul><div class="grey">
+			<li><a href="#">Audio</a></li>
+			</li>
+			</div>
+			</li>
+			<div class="grey">
+			<li><a href="#">Visualizations</a></li>
+			</li>
+			<li><a href="#">Character List</a></li>
+			</li>
+			<li><a href="#">Joyce Biography</a></li>
+			</li>
+			<li><a href="#">History of Ulysses</a></li>
+			</li></div>
+		</ul>
+	</li>
+	</ul>
+</div>
+</div>
+<span class="Joyce2">
+<img src="images/Joyce2.jpg" width="80" height="80" alt="" />
+</span>
+</div>

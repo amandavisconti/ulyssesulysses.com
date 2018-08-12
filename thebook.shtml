@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head> 
+  <title>www.UlyssesUlysses.com</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <link href="css/regular.css" rel="stylesheet" type="text/css" />
+  <link rel="Shortcut Icon" href="http://www.ulyssesulysses.com/images/favicon.ico" />
+</head> 
+<body> 
+
+<!--#include virtual="includes/topper.shtml" -->
+<div id="container">
+<div id="bodycontent">
+<p>
+<div class="mainlinks">
+	<em>Ulysses</em> Episodes:
+		<ul>
+			<li><a href="http://www.ulyssesulysses.com/episode1.shtml">Episode 1</a></li>
+			</li>
+			<li><a href="http://www.ulyssesulysses.com/episode2.shtml">Episode 2</a></li>
+			</li>
+			<li>Episode 3: under construction</li>
+			</li>
+			<li>Episode 4: under construction</li>
+			</li>
+			<li>Episode 5: under construction</li>
+			</li>
+			<li>Episode 6: under construction</li>
+			</li>
+			<li>Episode 7: under construction</li>
+			</li>
+			<li>Episode 8: under construction</li>
+			</li>
+			<li>Episode 9: under construction</li>
+			</li>
+			<li>Episode 10: under construction</li>
+			</li>
+			<li>Episode 11: under construction</li>
+			</li>
+			<li>Episode 12: under construction</li>
+			</li>
+			<li>Episode 13: under construction</li>
+			</li>
+			<li>Episode 14: under construction</li>
+			</li>
+			<li>Episode 15: under construction</li>
+			</li>
+			<li>Episode 16: under construction</li>
+			</li>
+			<li>Episode 17: under construction</li>
+			</li>
+			<li>Episode 18: under construction</li>
+			</li>
+		</ul>
+</div>
+</p>
+<p>
+The text of each episode is preceded by a page preparing you for the episode; a 
+"debriefing" page follows each episode to challenge your comprehension. The links 
+above go directly to the episode's briefing page, from which you may move on to
+the text and debriefing pages by links at the top of each page; if you access the <emUlysses</em>
+text through the menu at the top of the site, you will be take directly to the
+prebriefing page for the episode you choose.
+</p>
+
+</div>
+
+<!--#include virtual="includes/footer.shtml" -->
+</div>
+	
+</body> 
+</html>
