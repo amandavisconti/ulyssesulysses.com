@@ -7,3 +7,7 @@ I... would not recommend a similar 70s-basement color scheme or encrusted HTML f
 This is a very early project of mine, attempting to make the text of Ulysses publicly enjoyable/accessible and also play around with annotation and filtering display of annotations to user needs.
 
 Want to check out a more modern Ulysses digital edition? Check out my [InfiniteUlysses.com](http://www.infiniteulysses.com) (active public use 2015-2017, now migrated to static archived form—see the tour or Webrecorder archive to get a feel for when the site was interactive)
+
+# Notes
+This site is not maintained, and has not been maintained in years.
+Migrating this site from a private webhost to GitHub Pages may break parts of the site dependent on the .shtml file type (uses server side includes).
